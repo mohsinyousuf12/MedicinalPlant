@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "harcollection",
+    "slug": "harcollection",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "harcollection"
+}

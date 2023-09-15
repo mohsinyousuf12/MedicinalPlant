@@ -1,0 +1,3548 @@
+{
+  "Understory": [
+    {
+      "Medicinal_Value": "Gas",
+      "Common_Name": "Yarrow",
+      "Latin_Name": "achillea santolina",
+      "Local_Names": "kaisoom",
+      "Parts_of_plant": "leaves",
+      "process": "infusion",
+      "image": "https://pfaf.org/Admin/PlantImages/AchilleaSantolina.jpg",
+      "lat": 32.013917,
+      "long": 44.325222
+    },
+    {
+      "Medicinal_Value": "acid reflux",
+      "Common_Name": "Yarrow",
+      "Latin_Name": "achillea santolina",
+      "Local_Names": "kaisoom",
+      "Parts_of_plant": "leaves",
+      "process": "infusion",
+      "image": "https://pfaf.org/Admin/PlantImages/AchilleaSantolina.jpg",
+      "lat": 32.013917,
+      "long": 44.325222
+    },
+    {
+      "Medicinal_Value": "General Health",
+      "Common_Name": "Yarrow",
+      "Latin_Name": "achillea santolina",
+      "Local_Names": "kaisoom",
+      "Parts_of_plant": "leaves",
+      "process": "infusion",
+      "image": "https://pfaf.org/Admin/PlantImages/AchilleaSantolina.jpg",
+      "lat": 32.013917,
+      "long": 44.325222
+    },
+    {
+      "Medicinal_Value": "Diarrhea (bloody)",
+      "Common_Name": "Yarrow",
+      "Latin_Name": "achillea santolina",
+      "Local_Names": "kaisoom",
+      "Parts_of_plant": "leaves",
+      "process": "infusion",
+      "image": "https://pfaf.org/Admin/PlantImages/AchilleaSantolina.jpg",
+      "lat": 32.013917,
+      "long": 44.325222
+    },
+    {
+      "Medicinal_Value": "insect repellent",
+      "Common_Name": "Yarrow",
+      "Latin_Name": "achillea santolina",
+      "Local_Names": "kaisoom",
+      "Parts_of_plant": "whole",
+      "image": "https://pfaf.org/Admin/PlantImages/AchilleaSantolina.jpg",
+      "lat": 32.013917,
+      "long": 44.325222
+    },
+    {
+      "Medicinal_Value": "skin",
+      "Common_Name": "sticklewort",
+      "Latin_Name": "agrimonia eupatoria",
+      "Local_Names": "gafith",
+      "Parts_of_plant": "whole",
+      "process": "cataplasm",
+      "image": "https://newfs.s3.amazonaws.com/taxon-images-1000s1000/Rosaceae/agrimonia-eupatoria-st-atrnkoczy.jpg"
+    },
+    {
+      "Medicinal_Value": "hemorrhoids",
+      "Common_Name": "sticklewort",
+      "Latin_Name": "agrimonia eupatoria",
+      "Local_Names": "gafith",
+      "Parts_of_plant": "whole",
+      "process": "cataplasm",
+      "image": "https://newfs.s3.amazonaws.com/taxon-images-1000s1000/Rosaceae/agrimonia-eupatoria-st-atrnkoczy.jpg"
+    },
+    {
+      "Medicinal_Value": "tonic",
+      "Common_Name": "sticklewort",
+      "Latin_Name": "agrimonia eupatoria",
+      "Local_Names": "gafith",
+      "Parts_of_plant": "aerial",
+      "process": "decoction",
+      "image": "https://newfs.s3.amazonaws.com/taxon-images-1000s1000/Rosaceae/agrimonia-eupatoria-st-atrnkoczy.jpg"
+    },
+    {
+      "Medicinal_Value": "diuretic",
+      "Common_Name": "sticklewort",
+      "Latin_Name": "agrimonia eupatoria",
+      "Local_Names": "gafith",
+      "Parts_of_plant": "aerial",
+      "process": "decoction",
+      "image": "https://newfs.s3.amazonaws.com/taxon-images-1000s1000/Rosaceae/agrimonia-eupatoria-st-atrnkoczy.jpg"
+    },
+    {
+      "Medicinal_Value": "Parasites (intestinal)",
+      "Common_Name": "sticklewort",
+      "Latin_Name": "agrimonia eupatoria",
+      "Local_Names": "gafith",
+      "Parts_of_plant": "aerial",
+      "process": "decoction",
+      "image": "https://newfs.s3.amazonaws.com/taxon-images-1000s1000/Rosaceae/agrimonia-eupatoria-st-atrnkoczy.jpg"
+    },
+    {
+      "Medicinal_Value": "jaundice",
+      "Common_Name": "sticklewort",
+      "Latin_Name": "agrimonia eupatoria",
+      "Local_Names": "gafith",
+      "Parts_of_plant": "aerial",
+      "process": "decoction",
+      "image": "https://newfs.s3.amazonaws.com/taxon-images-1000s1000/Rosaceae/agrimonia-eupatoria-st-atrnkoczy.jpg"
+    },
+    {
+      "Medicinal_Value": "Pain (abdominal)",
+      "Common_Name": "tree of heaven",
+      "Latin_Name": "ailanthus altissima",
+      "Local_Names": "swingle",
+      "Parts_of_plant": "bark",
+      "process": "decoction",
+      "image": "https://newfs.s3.amazonaws.com/taxon-images-1000s1000/Simaroubaceae/ailanthus-altissima-fr-ahaines-a.jpg",
+      "lat": "32.013917; 32.466833 ",
+      "long": "44.325222;44.161083"
+    },
+    {
+      "Medicinal_Value": "Parasites (intestinal)",
+      "Common_Name": "tree of heaven",
+      "Latin_Name": "ailanthus altissima",
+      "Local_Names": "swingle",
+      "Parts_of_plant": "bark",
+      "process": "decoction",
+      "image": "https://newfs.s3.amazonaws.com/taxon-images-1000s1000/Simaroubaceae/ailanthus-altissima-fr-ahaines-a.jpg",
+      "lat": "32.013917; 32.466833 ",
+      "long": "44.325222;44.161083"
+    },
+    {
+      "Medicinal_Value": "Diarrhea",
+      "Common_Name": "tree of heaven",
+      "Latin_Name": "ailanthus altissima",
+      "Local_Names": "swingle",
+      "Parts_of_plant": "bark",
+      "process": "decoction",
+      "image": "https://newfs.s3.amazonaws.com/taxon-images-1000s1000/Simaroubaceae/ailanthus-altissima-fr-ahaines-a.jpg",
+      "lat": "32.013917; 32.466833 ",
+      "long": "44.325222;44.161083"
+    },
+    {
+      "Medicinal_Value": "Cough",
+      "Common_Name": "Leek",
+      "Latin_Name": "allium porrum",
+      "Local_Names": "krath",
+      "Parts_of_plant": "bulb",
+      "image": "https://plantinfo.co.za/wp-content/uploads/2020/07/1374842060_main-leeks-1.jpg"
+    },
+    {
+      "Medicinal_Value": "Kidney",
+      "Common_Name": "Leek",
+      "Latin_Name": "allium porrum",
+      "Local_Names": "krath",
+      "Parts_of_plant": "bulb",
+      "image": "https://plantinfo.co.za/wp-content/uploads/2020/07/1374842060_main-leeks-1.jpg"
+    },
+    {
+      "Medicinal_Value": "Low Appetite",
+      "Common_Name": "Garlic",
+      "Latin_Name": "allium sativum",
+      "Local_Names": "thoum",
+      "Parts_of_plant": "bulb",
+      "process": "fresh",
+      "image": "https://i0.wp.com/plantingman.com/wp-content/uploads/2017/02/Garlic.jpg?w=640&ssl=1",
+      "lat": 32.013917,
+      "long": 44.325222
+    },
+    {
+      "Medicinal_Value": "Parasites (intestinal)",
+      "Common_Name": "Garlic",
+      "Latin_Name": "allium sativum",
+      "Local_Names": "thoum",
+      "Parts_of_plant": "bulb",
+      "process": "fresh",
+      "image": "https://i0.wp.com/plantingman.com/wp-content/uploads/2017/02/Garlic.jpg?w=640&ssl=2",
+      "lat": 32.013917,
+      "long": 44.325222
+    },
+    {
+      "Medicinal_Value": "arthritis",
+      "Common_Name": "Garlic",
+      "Latin_Name": "allium sativum",
+      "Local_Names": "thoum",
+      "Parts_of_plant": "bulb",
+      "process": "cataplasm",
+      "image": "https://i0.wp.com/plantingman.com/wp-content/uploads/2017/02/Garlic.jpg?w=640&ssl=3",
+      "lat": 32.013917,
+      "long": 44.325222
+    },
+    {
+      "Medicinal_Value": "Dandruff",
+      "Common_Name": "Garlic",
+      "Latin_Name": "allium sativum",
+      "Local_Names": "thoum",
+      "Parts_of_plant": "bulb",
+      "process": "cataplasm",
+      "image": "https://i0.wp.com/plantingman.com/wp-content/uploads/2017/02/Garlic.jpg?w=640&ssl=4",
+      "lat": 32.013917,
+      "long": 44.325222
+    },
+    {
+      "Medicinal_Value": "Mites/Scabies",
+      "Common_Name": "Garlic",
+      "Latin_Name": "allium sativum",
+      "Local_Names": "thoum",
+      "Parts_of_plant": "bulb",
+      "process": "cataplasm",
+      "image": "https://i0.wp.com/plantingman.com/wp-content/uploads/2017/02/Garlic.jpg?w=640&ssl=5",
+      "lat": 32.013917,
+      "long": 44.325222
+    },
+    {
+      "Medicinal_Value": "Gas",
+      "Common_Name": "Garlic",
+      "Latin_Name": "allium sativum",
+      "Local_Names": "thoum",
+      "Parts_of_plant": "bulb",
+      "process": "juice",
+      "image": "https://i0.wp.com/plantingman.com/wp-content/uploads/2017/02/Garlic.jpg?w=640&ssl=6",
+      "lat": 32.013917,
+      "long": 44.325222
+    },
+    {
+      "Medicinal_Value": "Parasites (intestinal)",
+      "Common_Name": "Garlic",
+      "Latin_Name": "allium sativum",
+      "Local_Names": "thoum",
+      "Parts_of_plant": "bulb",
+      "process": "juice",
+      "image": "https://i0.wp.com/plantingman.com/wp-content/uploads/2017/02/Garlic.jpg?w=640&ssl=7",
+      "lat": 32.013917,
+      "long": 44.325222
+    },
+    {
+      "Medicinal_Value": "Cancer",
+      "Common_Name": "Garlic",
+      "Latin_Name": "allium sativum",
+      "Local_Names": "thoum",
+      "Parts_of_plant": "bulb",
+      "process": "juice",
+      "image": "https://i0.wp.com/plantingman.com/wp-content/uploads/2017/02/Garlic.jpg?w=640&ssl=8",
+      "lat": 32.013917,
+      "long": 44.325222
+    },
+    {
+      "Medicinal_Value": "Fever",
+      "Common_Name": "Garlic",
+      "Latin_Name": "allium sativum",
+      "Local_Names": "thoum",
+      "Parts_of_plant": "bulb",
+      "process": "juice",
+      "image": "https://i0.wp.com/plantingman.com/wp-content/uploads/2017/02/Garlic.jpg?w=640&ssl=9",
+      "lat": 32.013917,
+      "long": 44.325222
+    },
+    {
+      "Medicinal_Value": "Cough",
+      "Common_Name": "Hollyhook",
+      "Latin_Name": "althea rosa cav",
+      "Local_Names": "khotma wardy",
+      "Parts_of_plant": "flowers, seeds",
+      "process": "infusion",
+      "image": "https://s3g2u3k4.rocketcdn.me/wp-content/uploads/sites/4/2018/09/althea.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Pain (abdominal)",
+      "Common_Name": "Hollyhook",
+      "Latin_Name": "althea rosa cav",
+      "Local_Names": "khotma wardy",
+      "Parts_of_plant": "flowers, seeds",
+      "process": "infusion",
+      "image": "https://s3g2u3k4.rocketcdn.me/wp-content/uploads/sites/4/2018/09/althea.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "diuretic",
+      "Common_Name": "Hollyhook",
+      "Latin_Name": "althea rosa cav",
+      "Local_Names": "khotma wardy",
+      "Parts_of_plant": "flowers, seeds",
+      "process": "infusion",
+      "image": "https://s3g2u3k4.rocketcdn.me/wp-content/uploads/sites/4/2018/09/althea.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Pain (tooth)",
+      "Common_Name": "Hollyhook",
+      "Latin_Name": "althea rosa cav",
+      "Local_Names": "khotma wardy",
+      "Parts_of_plant": "flowers, seeds",
+      "process": "infusion",
+      "image": "https://s3g2u3k4.rocketcdn.me/wp-content/uploads/sites/4/2018/09/althea.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "inflammation",
+      "Common_Name": "Hollyhook",
+      "Latin_Name": "althea rosa cav",
+      "Local_Names": "khotma wardy",
+      "Parts_of_plant": "flowers, seeds",
+      "process": "infusion",
+      "image": "https://s3g2u3k4.rocketcdn.me/wp-content/uploads/sites/4/2018/09/althea.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Wounds",
+      "Common_Name": "Hollyhook",
+      "Latin_Name": "althea rosa cav",
+      "Local_Names": "khotma wardy",
+      "Parts_of_plant": "flowers, seeds",
+      "process": "infusion",
+      "image": "https://s3g2u3k4.rocketcdn.me/wp-content/uploads/sites/4/2018/09/althea.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Discoloured skin",
+      "Common_Name": "Queen annes lace",
+      "Latin_Name": "Ammi majus L",
+      "Local_Names": "Khella Shaitani",
+      "Parts_of_plant": "fruit",
+      "process": "decoction, fresh",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/058c748fd377d803563e6eee7584a575.jpg"
+    },
+    {
+      "Medicinal_Value": "Itching and flaking",
+      "Common_Name": "Queen annes lace",
+      "Latin_Name": "Ammi majus L",
+      "Local_Names": "Khella Shaitani",
+      "Parts_of_plant": "fruit",
+      "process": "decoction, fresh",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/058c748fd377d803563e6eee7584a575.jpg"
+    },
+    {
+      "Medicinal_Value": "diuretic",
+      "Common_Name": "Toothpick weed",
+      "Latin_Name": "Ammi visnaga",
+      "Local_Names": "Khella",
+      "Parts_of_plant": "seeds",
+      "process": "decoction",
+      "image": "https://www.avogel.ca/images/plants_new/ammi_verar_01-771.jpg?m=1352895723",
+      "lat": "32.149694; 32.157528; 32.286722; 32.466833 ",
+      "long": "44.322972; 44.337111; 44.279917;44.161083"
+    },
+    {
+      "Medicinal_Value": "Pain (abdominal)",
+      "Common_Name": "Toothpick weed",
+      "Latin_Name": "Ammi visnaga",
+      "Local_Names": "Khella",
+      "Parts_of_plant": "seeds",
+      "process": "decoction",
+      "image": "https://www.avogel.ca/images/plants_new/ammi_verar_01-771.jpg?m=1352895724",
+      "lat": "32.149694; 32.157528; 32.286722; 32.466833 ",
+      "long": "44.322972; 44.337111; 44.279917;44.161083"
+    },
+    {
+      "Medicinal_Value": "bladder stones",
+      "Common_Name": "Toothpick weed",
+      "Latin_Name": "Ammi visnaga",
+      "Local_Names": "Khella",
+      "Parts_of_plant": "seeds",
+      "process": "decoction",
+      "image": "https://www.avogel.ca/images/plants_new/ammi_verar_01-771.jpg?m=1352895725",
+      "lat": "32.149694; 32.157528; 32.286722; 32.466833 ",
+      "long": "44.322972; 44.337111; 44.279917;44.161083"
+    },
+    {
+      "Medicinal_Value": "asthma (relaxant)",
+      "Common_Name": "Toothpick weed",
+      "Latin_Name": "Ammi visnaga",
+      "Local_Names": "Khella",
+      "Parts_of_plant": "seeds",
+      "process": "decoction",
+      "image": "https://www.avogel.ca/images/plants_new/ammi_verar_01-771.jpg?m=1352895726",
+      "lat": "32.149694; 32.157528; 32.286722; 32.466833 ",
+      "long": "44.322972; 44.337111; 44.279917;44.161083"
+    },
+    {
+      "Medicinal_Value": "Heart (relaxant)",
+      "Common_Name": "Toothpick weed",
+      "Latin_Name": "Ammi visnaga",
+      "Local_Names": "Khella",
+      "Parts_of_plant": "seeds",
+      "process": "decoction",
+      "image": "https://www.avogel.ca/images/plants_new/ammi_verar_01-771.jpg?m=1352895727",
+      "lat": "32.149694; 32.157528; 32.286722; 32.466833 ",
+      "long": "44.322972; 44.337111; 44.279917;44.161083"
+    },
+    {
+      "Medicinal_Value": "brain inflammation",
+      "Common_Name": "scarlet pimpernel",
+      "Latin_Name": "Anagallis arvensis",
+      "Local_Names": "athan alfar",
+      "Parts_of_plant": "whole",
+      "process": "decoction",
+      "image": "https://www.birdsoutsidemywindow.org/wp-content/uploads/2019/06/flowers_scarlet_pimpernel_20190609_095301_rsz_kms.jpg",
+      "lat": 32.286722,
+      "long": 44.279917
+    },
+    {
+      "Medicinal_Value": "Constipation",
+      "Common_Name": "stinking bean trefoil",
+      "Latin_Name": "Anagyris foetida L",
+      "Local_Names": "Kheroob Alkhenzeer",
+      "Parts_of_plant": "seeds",
+      "process": "decoction",
+      "image": "https://floraofgibraltar.myspecies.info/file/2717"
+    },
+    {
+      "Medicinal_Value": "Poisoning",
+      "Common_Name": "stinking bean trefoil",
+      "Latin_Name": "Anagyris foetida L",
+      "Local_Names": "Kheroob Alkhenzeer",
+      "Parts_of_plant": "seeds",
+      "process": "decoction",
+      "image": "https://floraofgibraltar.myspecies.info/file/2718"
+    },
+    {
+      "Medicinal_Value": "Constipation",
+      "Common_Name": "stinking bean trefoil",
+      "Latin_Name": "Anagyris foetida L",
+      "Local_Names": "Kheroob Alkhenzeer",
+      "Parts_of_plant": "whole",
+      "process": "decoction",
+      "image": "https://floraofgibraltar.myspecies.info/file/2719"
+    },
+    {
+      "Medicinal_Value": "Parasites (intestinal)",
+      "Common_Name": "stinking bean trefoil",
+      "Latin_Name": "Anagyris foetida L",
+      "Local_Names": "Kheroob Alkhenzeer",
+      "Parts_of_plant": "whole",
+      "process": "decoction",
+      "image": "https://floraofgibraltar.myspecies.info/file/2720"
+    },
+    {
+      "Medicinal_Value": "Panic",
+      "Common_Name": "stinking bean trefoil",
+      "Latin_Name": "Anagyris foetida L",
+      "Local_Names": "Kheroob Alkhenzeer",
+      "Parts_of_plant": "whole",
+      "process": "decoction",
+      "image": "https://floraofgibraltar.myspecies.info/file/2721"
+    },
+    {
+      "Medicinal_Value": "Pain",
+      "Common_Name": "Bugloss",
+      "Latin_Name": "Anchusa italica, strigosa",
+      "Local_Names": "Ward Lisan Althour",
+      "Parts_of_plant": "flower",
+      "process": "decoction",
+      "image": "https://th.bing.com/th/id/R.f3f970622750d3475d5a52f095329ccf?rik=0ewm7k6etiOAAg&riu=http%3a%2f%2fwww.giorgioventurini.net%2ffiori%2fborraginacee%2fanchusa_italica%2fanchusa_licenza_06_10_IMG_8976.jpg&ehk=hZIkFxeYADD6brDJVXTkrvDF%2b9bkYO96X4xV%2bgSx3uI%3d&risl=&pid=ImgRaw&r=0",
+      "lat": "32.149694; 32.157528; 32.286722 ",
+      "long": "44.322972; 44.337111; 44.279917"
+    },
+    {
+      "Medicinal_Value": "Insomnia",
+      "Common_Name": "Bugloss",
+      "Latin_Name": "Anchusa italica, strigosa",
+      "Local_Names": "Ward Lisan Althour",
+      "Parts_of_plant": "flower",
+      "process": "decoction",
+      "image": "https://th.bing.com/th/id/R.f3f970622750d3475d5a52f095329ccf?rik=0ewm7k6etiOAAg&riu=http%3a%2f%2fwww.giorgioventurini.net%2ffiori%2fborraginacee%2fanchusa_italica%2fanchusa_licenza_06_10_IMG_8976.jpg&ehk=hZIkFxeYADD6brDJVXTkrvDF%2b9bkYO96X4xV%2bgSx3uI%3d&risl=&pid=ImgRaw&r=1",
+      "lat": "32.149694; 32.157528; 32.286722 ",
+      "long": "44.322972; 44.337111; 44.279917"
+    },
+    {
+      "Medicinal_Value": "Fever",
+      "Common_Name": "Bugloss",
+      "Latin_Name": "Anchusa italica, strigosa",
+      "Local_Names": "Ward Lisan Althour",
+      "Parts_of_plant": "flower",
+      "process": "decoction",
+      "image": "https://th.bing.com/th/id/R.f3f970622750d3475d5a52f095329ccf?rik=0ewm7k6etiOAAg&riu=http%3a%2f%2fwww.giorgioventurini.net%2ffiori%2fborraginacee%2fanchusa_italica%2fanchusa_licenza_06_10_IMG_8976.jpg&ehk=hZIkFxeYADD6brDJVXTkrvDF%2b9bkYO96X4xV%2bgSx3uI%3d&risl=&pid=ImgRaw&r=2",
+      "lat": "32.149694; 32.157528; 32.286722 ",
+      "long": "44.322972; 44.337111; 44.279917"
+    },
+    {
+      "Medicinal_Value": "diuretic",
+      "Common_Name": "Bugloss",
+      "Latin_Name": "Anchusa italica, strigosa",
+      "Local_Names": "Ward Lisan Althour",
+      "Parts_of_plant": "flower",
+      "process": "decoction",
+      "image": "https://th.bing.com/th/id/R.f3f970622750d3475d5a52f095329ccf?rik=0ewm7k6etiOAAg&riu=http%3a%2f%2fwww.giorgioventurini.net%2ffiori%2fborraginacee%2fanchusa_italica%2fanchusa_licenza_06_10_IMG_8976.jpg&ehk=hZIkFxeYADD6brDJVXTkrvDF%2b9bkYO96X4xV%2bgSx3uI%3d&risl=&pid=ImgRaw&r=3",
+      "lat": "32.149694; 32.157528; 32.286722 ",
+      "long": "44.322972; 44.337111; 44.279917"
+    },
+    {
+      "Medicinal_Value": "gas",
+      "Common_Name": "Roman chamomile\r\n",
+      "Latin_Name": "Anthemis nobilis",
+      "Local_Names": "babonage",
+      "Parts_of_plant": "flowering tops",
+      "process": "infusion",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/vGjek6G2aWwmx6NJrvaqOoJfeAsEbFwDj3eMKEzl.webp",
+      "lat": 32.013917,
+      "long": 44.325222
+    },
+    {
+      "Medicinal_Value": "Inflammation",
+      "Common_Name": "Roman chamomile\r\n",
+      "Latin_Name": "Anthemis nobilis",
+      "Local_Names": "babonage",
+      "Parts_of_plant": "flowering tops",
+      "process": "infusion",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/vGjek6G2aWwmx6NJrvaqOoJfeAsEbFwDj3eMKEzl.webp",
+      "lat": 32.013917,
+      "long": 44.325222
+    },
+    {
+      "Medicinal_Value": "Inflammation (oral)",
+      "Common_Name": "Roman chamomile\r\n",
+      "Latin_Name": "Anthemis nobilis",
+      "Local_Names": "babonage",
+      "Parts_of_plant": "flowering tops",
+      "process": "poultice",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/vGjek6G2aWwmx6NJrvaqOoJfeAsEbFwDj3eMKEzl.webp",
+      "lat": 32.013917,
+      "long": 44.325222
+    },
+    {
+      "Medicinal_Value": "Parasites (intestinal)",
+      "Common_Name": "Mexican Butterfly Weed\r\n",
+      "Latin_Name": "Asclepias curassavica",
+      "Local_Names": "Zahrat Aldam",
+      "Parts_of_plant": "leaves",
+      "process": "juice",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/shutterstock_383468335Optimized.webp",
+      "lat": "32.013917; 32.466833 ",
+      "long": "44.325222;44.161083"
+    },
+    {
+      "Medicinal_Value": "Fever",
+      "Common_Name": "Mexican Butterfly Weed\r\n",
+      "Latin_Name": "Asclepias curassavica",
+      "Local_Names": "Zahrat Aldam",
+      "Parts_of_plant": "leaves",
+      "process": "juice",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/shutterstock_383468335Optimized.webp",
+      "lat": "32.013917; 32.466833 ",
+      "long": "44.325222;44.161083"
+    },
+    {
+      "Medicinal_Value": "Excessive bleeding",
+      "Common_Name": "Mexican Butterfly Weed\r\n",
+      "Latin_Name": "Asclepias curassavica",
+      "Local_Names": "Zahrat Aldam",
+      "Parts_of_plant": "flowers",
+      "process": "juice",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/shutterstock_383468335Optimized.webp",
+      "lat": "32.013917; 32.466833 ",
+      "long": "44.325222;44.161083"
+    },
+    {
+      "Medicinal_Value": "Nausea and vomiting",
+      "Common_Name": "Mexican Butterfly Weed\r\n",
+      "Latin_Name": "Asclepias curassavica",
+      "Local_Names": "Zahrat Aldam",
+      "Parts_of_plant": "seeds",
+      "process": "decoction",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/shutterstock_383468335Optimized.webp",
+      "lat": "32.013917; 32.466833 ",
+      "long": "44.325222;44.161083"
+    },
+    {
+      "Medicinal_Value": "Insomnia",
+      "Common_Name": "Waterhyssop",
+      "Latin_Name": "Bacopa monniera",
+      "Local_Names": "Barbeen Baree",
+      "Parts_of_plant": "whole",
+      "process": "decoction",
+      "image": "https://lindenbotanicals.com/wp-content/uploads/2020/04/Bacopa-monnieri-Brahmi-Linden-Botanicals.jpg",
+      "lat": 32.286722,
+      "long": 44.279917
+    },
+    {
+      "Medicinal_Value": "seizures and convulsions",
+      "Common_Name": "Waterhyssop",
+      "Latin_Name": "Bacopa monniera",
+      "Local_Names": "Barbeen Baree",
+      "Parts_of_plant": "whole",
+      "process": "decoction",
+      "image": "https://lindenbotanicals.com/wp-content/uploads/2020/04/Bacopa-monnieri-Brahmi-Linden-Botanicals.jpg",
+      "lat": 32.286722,
+      "long": 44.279917
+    },
+    {
+      "Medicinal_Value": "Hysteria",
+      "Common_Name": "Waterhyssop",
+      "Latin_Name": "Bacopa monniera",
+      "Local_Names": "Barbeen Baree",
+      "Parts_of_plant": "whole",
+      "process": "decoction",
+      "image": "https://lindenbotanicals.com/wp-content/uploads/2020/04/Bacopa-monnieri-Brahmi-Linden-Botanicals.jpg",
+      "lat": 32.286722,
+      "long": 44.279917
+    },
+    {
+      "Medicinal_Value": "stress",
+      "Common_Name": "Waterhyssop",
+      "Latin_Name": "Bacopa monniera",
+      "Local_Names": "Barbeen Baree",
+      "Parts_of_plant": "whole",
+      "process": "decoction",
+      "image": "https://lindenbotanicals.com/wp-content/uploads/2020/04/Bacopa-monnieri-Brahmi-Linden-Botanicals.jpg",
+      "lat": 32.286722,
+      "long": 44.279917
+    },
+    {
+      "Medicinal_Value": "Menstruation (light)",
+      "Common_Name": "Black horehound\r\n",
+      "Latin_Name": "Ballota nigra",
+      "Local_Names": "sindian ardh",
+      "Parts_of_plant": "whole",
+      "process": "decoction",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/98eee85d061553ebf1c091731f501b11.jpg",
+      "lat": "32.149694; 32.157528; 32.466833 ",
+      "long": "44.322972; 44.337111;44.161083"
+    },
+    {
+      "Medicinal_Value": "Insomnia",
+      "Common_Name": "Black horehound\r\n",
+      "Latin_Name": "Ballota nigra",
+      "Local_Names": "sindian ardh",
+      "Parts_of_plant": "whole",
+      "process": "decoction",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/98eee85d061553ebf1c091731f501b11.jpg",
+      "lat": "32.149694; 32.157528; 32.466833 ",
+      "long": "44.322972; 44.337111;44.161083"
+    },
+    {
+      "Medicinal_Value": "Weakness",
+      "Common_Name": "Black horehound\r\n",
+      "Latin_Name": "Ballota nigra",
+      "Local_Names": "sindian ardh",
+      "Parts_of_plant": "whole",
+      "process": "decoction",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/98eee85d061553ebf1c091731f501b11.jpg",
+      "lat": "32.149694; 32.157528; 32.466833 ",
+      "long": "44.322972; 44.337111;44.161083"
+    },
+    {
+      "Medicinal_Value": "diuretic",
+      "Common_Name": "Black horehound\r\n",
+      "Latin_Name": "Ballota nigra",
+      "Local_Names": "sindian ardh",
+      "Parts_of_plant": "whole",
+      "process": "decoction",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/98eee85d061553ebf1c091731f501b11.jpg",
+      "lat": "32.149694; 32.157528; 32.466833 ",
+      "long": "44.322972; 44.337111;44.161083"
+    },
+    {
+      "Medicinal_Value": "Pain (abdominal)",
+      "Common_Name": "Black horehound\r\n",
+      "Latin_Name": "Ballota nigra",
+      "Local_Names": "sindian ardh",
+      "Parts_of_plant": "whole",
+      "process": "decoction",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/98eee85d061553ebf1c091731f501b11.jpg",
+      "lat": "32.149694; 32.157528; 32.466833 ",
+      "long": "44.322972; 44.337111;44.161083"
+    },
+    {
+      "Medicinal_Value": "Parasites (intestinal)",
+      "Common_Name": "Wax gourd\r\n",
+      "Latin_Name": "Benincaea hispida",
+      "Local_Names": "Shager Abiadh Hindee",
+      "Parts_of_plant": "seeds",
+      "process": "oil",
+      "image": "https://images.squarespace-cdn.com/content/v1/5a779422e9bfdf382879dd24/1577638202247-8J1NY9LZ69K9VMCDHLYQ/wax+melon.jpg?format=1000w",
+      "lat": 32.013917,
+      "long": 44.325222
+    },
+    {
+      "Medicinal_Value": "tuberculosis",
+      "Common_Name": "Wax gourd\r\n",
+      "Latin_Name": "Benincaea hispida",
+      "Local_Names": "Shager Abiadh Hindee",
+      "Parts_of_plant": "fruit",
+      "process": "juice",
+      "image": "https://images.squarespace-cdn.com/content/v1/5a779422e9bfdf382879dd24/1577638202247-8J1NY9LZ69K9VMCDHLYQ/wax+melon.jpg?format=1000w",
+      "lat": 32.013917,
+      "long": 44.325222
+    },
+    {
+      "Medicinal_Value": "cough",
+      "Common_Name": "Red Bryony",
+      "Latin_Name": "Bryonia dioica",
+      "Local_Names": "Einip Alhai",
+      "Parts_of_plant": "seeds",
+      "process": "decoction",
+      "image": "https://www.monaconatureencyclopedia.com/wp-content/uploads/2012/04/tutta_la_pianta_e_tossica_in_particolare_la_radice_e_le_bacche._possono_bastarne_12_per_uccidere_un_bambino.jpg"
+    },
+    {
+      "Medicinal_Value": "Constipation",
+      "Common_Name": "Red Bryony",
+      "Latin_Name": "Bryonia dioica",
+      "Local_Names": "Einip Alhai",
+      "Parts_of_plant": "seeds",
+      "process": "decoction",
+      "image": "https://www.monaconatureencyclopedia.com/wp-content/uploads/2012/04/tutta_la_pianta_e_tossica_in_particolare_la_radice_e_le_bacche._possono_bastarne_12_per_uccidere_un_bambino.jpg"
+    },
+    {
+      "Medicinal_Value": "Poisoning",
+      "Common_Name": "Red Bryony",
+      "Latin_Name": "Bryonia dioica",
+      "Local_Names": "Einip Alhai",
+      "Parts_of_plant": "seeds",
+      "process": "decoction",
+      "image": "https://www.monaconatureencyclopedia.com/wp-content/uploads/2012/04/tutta_la_pianta_e_tossica_in_particolare_la_radice_e_le_bacche._possono_bastarne_12_per_uccidere_un_bambino.jpg"
+    },
+    {
+      "Medicinal_Value": "diuretic",
+      "Common_Name": "Red Bryony",
+      "Latin_Name": "Bryonia dioica",
+      "Local_Names": "Einip Alhai",
+      "Parts_of_plant": "seeds",
+      "process": "decoction",
+      "image": "https://www.monaconatureencyclopedia.com/wp-content/uploads/2012/04/tutta_la_pianta_e_tossica_in_particolare_la_radice_e_le_bacche._possono_bastarne_12_per_uccidere_un_bambino.jpg"
+    },
+    {
+      "Medicinal_Value": "Menstruation (light)",
+      "Common_Name": "Red Bryony",
+      "Latin_Name": "Bryonia dioica",
+      "Local_Names": "Einip Alhai",
+      "Parts_of_plant": "seeds",
+      "process": "decoction",
+      "image": "https://www.monaconatureencyclopedia.com/wp-content/uploads/2012/04/tutta_la_pianta_e_tossica_in_particolare_la_radice_e_le_bacche._possono_bastarne_12_per_uccidere_un_bambino.jpg"
+    },
+    {
+      "Medicinal_Value": "wounds",
+      "Common_Name": "cathedral bells",
+      "Latin_Name": "Bryophyllum calycinum",
+      "Local_Names": "Nebat Alhayat",
+      "Parts_of_plant": "leaves",
+      "process": "decoction",
+      "image": "https://guamology.com/uploads/3/5/3/6/35361535/1201023_orig.jpg",
+      "lat": 32.286722,
+      "long": 44.279917
+    },
+    {
+      "Medicinal_Value": "insect bites",
+      "Common_Name": "cathedral bells",
+      "Latin_Name": "Bryophyllum calycinum",
+      "Local_Names": "Nebat Alhayat",
+      "Parts_of_plant": "leaves",
+      "process": "decoction",
+      "image": "https://guamology.com/uploads/3/5/3/6/35361535/1201023_orig.jpg",
+      "lat": 32.286722,
+      "long": 44.279917
+    },
+    {
+      "Medicinal_Value": "Irritable Bowel Disease",
+      "Common_Name": "cathedral bells",
+      "Latin_Name": "Bryophyllum calycinum",
+      "Local_Names": "Nebat Alhayat",
+      "Parts_of_plant": "leaves",
+      "process": "poultice, powder",
+      "image": "https://guamology.com/uploads/3/5/3/6/35361535/1201023_orig.jpg",
+      "lat": 32.286722,
+      "long": 44.279917
+    },
+    {
+      "Medicinal_Value": "Menopause",
+      "Common_Name": "Pot marigold\r\n",
+      "Latin_Name": "Calendula officinalis",
+      "Local_Names": "azereon",
+      "Parts_of_plant": "leaves",
+      "process": "dried, macerate",
+      "image": "https://www.applewoodseed.com/wp-content/uploads/2016/11/COFF-1101.jpg"
+    },
+    {
+      "Medicinal_Value": "Low Libido",
+      "Common_Name": "Pot marigold\r\n",
+      "Latin_Name": "Calendula officinalis",
+      "Local_Names": "azereon",
+      "Parts_of_plant": "leaves",
+      "process": "dried, macerate",
+      "image": "https://www.applewoodseed.com/wp-content/uploads/2016/11/COFF-1101.jpg"
+    },
+    {
+      "Medicinal_Value": "Immune System",
+      "Common_Name": "Pot marigold\r\n",
+      "Latin_Name": "Calendula officinalis",
+      "Local_Names": "azereon",
+      "Parts_of_plant": "fruit",
+      "process": "decoction",
+      "image": "https://www.applewoodseed.com/wp-content/uploads/2016/11/COFF-1101.jpg"
+    },
+    {
+      "Medicinal_Value": "Pain (joints)",
+      "Common_Name": "Pot marigold\r\n",
+      "Latin_Name": "Calendula officinalis",
+      "Local_Names": "azereon",
+      "Parts_of_plant": "fruit",
+      "process": "decoction",
+      "image": "https://www.applewoodseed.com/wp-content/uploads/2016/11/COFF-1101.jpg"
+    },
+    {
+      "Medicinal_Value": "Fever",
+      "Common_Name": "Pot marigold\r\n",
+      "Latin_Name": "Calendula officinalis",
+      "Local_Names": "azereon",
+      "Parts_of_plant": "fruit",
+      "process": "decoction",
+      "image": "https://www.applewoodseed.com/wp-content/uploads/2016/11/COFF-1101.jpg"
+    },
+    {
+      "Medicinal_Value": "diuretic",
+      "Common_Name": "Pot marigold\r\n",
+      "Latin_Name": "Calendula officinalis",
+      "Local_Names": "azereon",
+      "Parts_of_plant": "fruit",
+      "process": "decoction",
+      "image": "https://www.applewoodseed.com/wp-content/uploads/2016/11/COFF-1101.jpg"
+    },
+    {
+      "Medicinal_Value": "Wounds",
+      "Common_Name": "Pot marigold\r\n",
+      "Latin_Name": "Calendula officinalis",
+      "Local_Names": "azereon",
+      "Parts_of_plant": "fruit",
+      "process": "decoction",
+      "image": "https://www.applewoodseed.com/wp-content/uploads/2016/11/COFF-1101.jpg"
+    },
+    {
+      "Medicinal_Value": "Tonic",
+      "Common_Name": "Apple of Sodom",
+      "Latin_Name": "Calotropis procera Ait",
+      "Local_Names": "Aldebaj",
+      "Parts_of_plant": "bark",
+      "process": "decoction",
+      "image": "https://nif.org.in/img/img/CALOTROPIS.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Fever",
+      "Common_Name": "Apple of Sodom",
+      "Latin_Name": "Calotropis procera Ait",
+      "Local_Names": "Aldebaj",
+      "Parts_of_plant": "bark",
+      "process": "decoction",
+      "image": "https://nif.org.in/img/img/CALOTROPIS.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Pain (abdominal)",
+      "Common_Name": "Apple of Sodom",
+      "Latin_Name": "Calotropis procera Ait",
+      "Local_Names": "Aldebaj",
+      "Parts_of_plant": "bark",
+      "process": "decoction",
+      "image": "https://nif.org.in/img/img/CALOTROPIS.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "congestion",
+      "Common_Name": "Apple of Sodom",
+      "Latin_Name": "Calotropis procera Ait",
+      "Local_Names": "Aldebaj",
+      "Parts_of_plant": "bark",
+      "process": "decoction",
+      "image": "https://nif.org.in/img/img/CALOTROPIS.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Poisoning",
+      "Common_Name": "Apple of Sodom",
+      "Latin_Name": "Calotropis procera Ait",
+      "Local_Names": "Aldebaj",
+      "Parts_of_plant": "bark",
+      "process": "decoction",
+      "image": "https://nif.org.in/img/img/CALOTROPIS.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Poisoning",
+      "Common_Name": "Caper bush",
+      "Latin_Name": "Capparis spinosa",
+      "Local_Names": "caper",
+      "Parts_of_plant": "flowers, buds",
+      "process": "decoction",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/211b2UoCDP5vhnkeMJMhqZgtoAVzqp8qUOc3NP4p.webp",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "diuretic",
+      "Common_Name": "Caper bush",
+      "Latin_Name": "Capparis spinosa",
+      "Local_Names": "caper",
+      "Parts_of_plant": "flowers, buds",
+      "process": "decoction",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/211b2UoCDP5vhnkeMJMhqZgtoAVzqp8qUOc3NP4p.webp",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Fever",
+      "Common_Name": "Senna",
+      "Latin_Name": "Cassia occidentalis",
+      "Local_Names": "casia",
+      "Parts_of_plant": "whole",
+      "process": "decoction",
+      "image": "https://en.m.wikipedia.org/wiki/File:Senna_occidentalis.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Constipation",
+      "Common_Name": "Senna",
+      "Latin_Name": "Cassia occidentalis",
+      "Local_Names": "casia",
+      "Parts_of_plant": "whole",
+      "process": "decoction",
+      "image": "https://en.m.wikipedia.org/wiki/File:Senna_occidentalis.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "diuretic",
+      "Common_Name": "Senna",
+      "Latin_Name": "Cassia occidentalis",
+      "Local_Names": "casia",
+      "Parts_of_plant": "whole",
+      "process": "decoction",
+      "image": "https://en.m.wikipedia.org/wiki/File:Senna_occidentalis.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Constipation",
+      "Common_Name": "Senna",
+      "Latin_Name": "Cassia occidentalis",
+      "Local_Names": "casia",
+      "Parts_of_plant": "leaves, seeds, roots",
+      "process": "decoction",
+      "image": "https://en.m.wikipedia.org/wiki/File:Senna_occidentalis.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Fever",
+      "Common_Name": "Senna",
+      "Latin_Name": "Cassia occidentalis",
+      "Local_Names": "casia",
+      "Parts_of_plant": "leaves, seeds, roots",
+      "process": "decoction",
+      "image": "https://en.m.wikipedia.org/wiki/File:Senna_occidentalis.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "stomach warmness",
+      "Common_Name": "Balangu Shirazi",
+      "Latin_Name": "lallemantia royleana",
+      "Local_Names": "balangu",
+      "Parts_of_plant": "seeds",
+      "process": "juice",
+      "image": "https://en.m.wikipedia.org/wiki/File:Lallemantia_canescens.jpg"
+    },
+    {
+      "Medicinal_Value": "DIgestion",
+      "Common_Name": "Balangu Shirazi",
+      "Latin_Name": "lallemantia royleana",
+      "Local_Names": "balangu",
+      "Parts_of_plant": "seeds",
+      "process": "juice",
+      "image": "https://en.m.wikipedia.org/wiki/File:Lallemantia_canescens.jpg"
+    },
+    {
+      "Medicinal_Value": "Pus/Abscess",
+      "Common_Name": "Balangu Shirazi",
+      "Latin_Name": "lallemantia royleana",
+      "Local_Names": "balangu",
+      "Parts_of_plant": "seeds",
+      "process": "juice",
+      "image": "https://en.m.wikipedia.org/wiki/File:Lallemantia_canescens.jpg"
+    },
+    {
+      "Medicinal_Value": "Kidney",
+      "Common_Name": "caper bush",
+      "Latin_Name": "Capparis spinosa",
+      "Local_Names": "shefellah",
+      "Parts_of_plant": "whole",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/211b2UoCDP5vhnkeMJMhqZgtoAVzqp8qUOc3NP4p.webp"
+    },
+    {
+      "Medicinal_Value": "gas",
+      "Common_Name": "caper bush",
+      "Latin_Name": "Capparis spinosa",
+      "Local_Names": "shefellah",
+      "Parts_of_plant": "whole",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/211b2UoCDP5vhnkeMJMhqZgtoAVzqp8qUOc3NP4p.webp"
+    },
+    {
+      "Medicinal_Value": "Pain (low back)",
+      "Common_Name": "caper bush",
+      "Latin_Name": "Capparis spinosa",
+      "Local_Names": "shefellah",
+      "Parts_of_plant": "whole",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/211b2UoCDP5vhnkeMJMhqZgtoAVzqp8qUOc3NP4p.webp"
+    },
+    {
+      "Medicinal_Value": "rheumatism",
+      "Common_Name": "colocynth",
+      "Latin_Name": "citrullus colocynthis",
+      "Local_Names": "hanthale",
+      "Parts_of_plant": "pulp, seeds",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/88e691585a6c6ba12c543c4c8045a6c4.jpg"
+    },
+    {
+      "Medicinal_Value": "Constipation",
+      "Common_Name": "colocynth",
+      "Latin_Name": "citrullus colocynthis",
+      "Local_Names": "hanthale",
+      "Parts_of_plant": "pulp, seeds",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/88e691585a6c6ba12c543c4c8045a6c4.jpg"
+    },
+    {
+      "Medicinal_Value": "hemorrhoids",
+      "Common_Name": "colocynth",
+      "Latin_Name": "citrullus colocynthis",
+      "Local_Names": "hanthale",
+      "Parts_of_plant": "pulp, seeds",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/88e691585a6c6ba12c543c4c8045a6c4.jpg"
+    },
+    {
+      "Medicinal_Value": "stomach cramps",
+      "Common_Name": "colocynth",
+      "Latin_Name": "citrullus colocynthis",
+      "Local_Names": "hanthale",
+      "Parts_of_plant": "lime",
+      "process": "dried",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/88e691585a6c6ba12c543c4c8045a6c4.jpg"
+    },
+    {
+      "Medicinal_Value": "Gas",
+      "Common_Name": "colocynth",
+      "Latin_Name": "citrullus colocynthis",
+      "Local_Names": "hanthale",
+      "Parts_of_plant": "lime",
+      "process": "dried",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/88e691585a6c6ba12c543c4c8045a6c4.jpg"
+    },
+    {
+      "Medicinal_Value": "irritable bowel syndrome",
+      "Common_Name": "colocynth",
+      "Latin_Name": "citrullus colocynthis",
+      "Local_Names": "hanthale",
+      "Parts_of_plant": "lime",
+      "process": "dried",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/88e691585a6c6ba12c543c4c8045a6c4.jpg"
+    },
+    {
+      "Medicinal_Value": "inflammation",
+      "Common_Name": "colocynth",
+      "Latin_Name": "citrullus colocynthis",
+      "Local_Names": "hanthale",
+      "Parts_of_plant": "lime",
+      "process": "dried",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/88e691585a6c6ba12c543c4c8045a6c4.jpg"
+    },
+    {
+      "Medicinal_Value": "Detox",
+      "Common_Name": "maidenhair",
+      "Latin_Name": "adiantum capllus-veneris",
+      "Local_Names": "krafs alber",
+      "Parts_of_plant": "fronde",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/ELhTt8WQYnHYuyNZFA0Qq2ngHJuaURayDd4tqjAN.webp"
+    },
+    {
+      "Medicinal_Value": "Constipation",
+      "Common_Name": "senna",
+      "Latin_Name": "cassia acutifolia",
+      "Local_Names": "sanna makki",
+      "image": "http://yabanicicekler.com/upload/image/flower/thumbs/d0fcb39b1e0595cceb4defc797215bfc.jpg"
+    },
+    {
+      "Medicinal_Value": "skin disorder",
+      "Common_Name": "fineleaf fumitory",
+      "Latin_Name": "fumaria parviflora",
+      "Local_Names": "shaterag",
+      "Parts_of_plant": "leaves, seeds",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/1ca0c81e7cab00c44418e346996fdad3.jpg"
+    },
+    {
+      "Medicinal_Value": "Fever",
+      "Common_Name": "souchet round",
+      "Latin_Name": "cyperus rotundus",
+      "Local_Names": "alseid",
+      "Parts_of_plant": "tuberous roots, tubers",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/1ca0c81e7cab00c44418e346996fdad3.jpg"
+    },
+    {
+      "Medicinal_Value": "Digestion",
+      "Common_Name": "souchet round",
+      "Latin_Name": "cyperus rotundus",
+      "Local_Names": "alseid",
+      "Parts_of_plant": "tuberous roots, tubers",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/1ca0c81e7cab00c44418e346996fdad3.jpg"
+    },
+    {
+      "Medicinal_Value": "nausea",
+      "Common_Name": "souchet round",
+      "Latin_Name": "cyperus rotundus",
+      "Local_Names": "alseid",
+      "Parts_of_plant": "tuberous roots, tubers",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/1ca0c81e7cab00c44418e346996fdad3.jpg"
+    },
+    {
+      "Medicinal_Value": "diarrhea",
+      "Common_Name": "souchet round",
+      "Latin_Name": "cyperus rotundus",
+      "Local_Names": "alseid",
+      "Parts_of_plant": "tuberous roots, tubers",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/1ca0c81e7cab00c44418e346996fdad3.jpg"
+    },
+    {
+      "Medicinal_Value": "Menstruation (heavy)",
+      "Common_Name": "tormentil",
+      "Latin_Name": "potentilla erecta",
+      "Local_Names": "irk alinjibar",
+      "Parts_of_plant": "roots, leaves, flowers",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/JilwKCUAfZ7NqlYid6xBYmwnXJwjEya3HmpU9OEZ.webp"
+    },
+    {
+      "Medicinal_Value": "Intense crying (infant)",
+      "Common_Name": "horse mint",
+      "Latin_Name": "mentha longifolia",
+      "Local_Names": "botnige",
+      "Parts_of_plant": "leaves, flowers",
+      "image": "https://newfs.s3.amazonaws.com/taxon-images-1000s1000/Lamiaceae/mentha-longifolia-st-jhamar1.jpg"
+    },
+    {
+      "Medicinal_Value": "Pain (abdominal)",
+      "Common_Name": "australia pine",
+      "Latin_Name": "Casuarina equisetifolia",
+      "Local_Names": "Casuarina",
+      "Parts_of_plant": "leaves",
+      "process": "decoction",
+      "image": "https://storage.googleapis.com/powop-assets/neotropikey/casuarinaceae_fullsize.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Diarrhea",
+      "Common_Name": "australia pine",
+      "Latin_Name": "Casuarina equisetifolia",
+      "Local_Names": "Casuarina",
+      "Parts_of_plant": "bark",
+      "process": "decoction",
+      "image": "https://storage.googleapis.com/powop-assets/neotropikey/casuarinaceae_fullsize.jpg"
+    },
+    {
+      "Medicinal_Value": "Diarrhea ",
+      "Common_Name": "Crested cocks-comb",
+      "Latin_Name": "Celosia cristata",
+      "Local_Names": "Erif Aldeek",
+      "Parts_of_plant": "leaves",
+      "process": "decoction",
+      "image": "https://www.johnnyseeds.com/on/demandware.static/-/Library-Sites-JSSSharedLibrary/default/dwe54a75f6/images/culture/20-celosia.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Constipation",
+      "Common_Name": "Crested cocks-comb",
+      "Latin_Name": "Celosia cristata",
+      "Local_Names": "Erif Aldeek",
+      "Parts_of_plant": "seeds",
+      "process": "decoction",
+      "image": "https://www.johnnyseeds.com/on/demandware.static/-/Library-Sites-JSSSharedLibrary/default/dwe54a75f6/images/culture/20-celosia.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Pain (cough)",
+      "Common_Name": "Crested cocks-comb",
+      "Latin_Name": "Celosia cristata",
+      "Local_Names": "Erif Aldeek",
+      "Parts_of_plant": "seeds",
+      "process": "decoction",
+      "image": "https://www.johnnyseeds.com/on/demandware.static/-/Library-Sites-JSSSharedLibrary/default/dwe54a75f6/images/culture/20-celosia.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Pain (cough)",
+      "Common_Name": "Crested cocks-comb",
+      "Latin_Name": "Celosia cristata",
+      "Local_Names": "Erif Aldeek",
+      "Parts_of_plant": "seeds",
+      "process": "decoction",
+      "image": "https://www.johnnyseeds.com/on/demandware.static/-/Library-Sites-JSSSharedLibrary/default/dwe54a75f6/images/culture/20-celosia.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Urination (frequent)",
+      "Common_Name": "dyers croton",
+      "Latin_Name": "Chrozophora tinctoria",
+      "Local_Names": "Zereej, Neel",
+      "Parts_of_plant": "whole",
+      "process": "decoction",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/a136254c7755732eedd35a3faad50c79.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Mites/Scabies",
+      "Common_Name": "Dalmatian pellitory\r\n",
+      "Latin_Name": "Chrysanthemum cineraiacfolium",
+      "Local_Names": "pyrethrum",
+      "Parts_of_plant": "flower",
+      "process": "decoction",
+      "image": "https://images.squarespace-cdn.com/content/v1/5324bf63e4b05fc1fc6ea99d/1598026969468-K2ZID35D5LX5RGKX8FCS/pyrethrum-daisy.jpg?format=750w",
+      "lat": 32.013917,
+      "long": 44.325222
+    },
+    {
+      "Medicinal_Value": "Parasites (intestinal)",
+      "Common_Name": "Dalmatian pellitory\r\n",
+      "Latin_Name": "Chrysanthemum cineraiacfolium",
+      "Local_Names": "pyrethrum",
+      "Parts_of_plant": "flower",
+      "process": "decoction",
+      "image": "https://images.squarespace-cdn.com/content/v1/5324bf63e4b05fc1fc6ea99d/1598026969468-K2ZID35D5LX5RGKX8FCS/pyrethrum-daisy.jpg?format=750w",
+      "lat": 32.013917,
+      "long": 44.325222
+    },
+    {
+      "Medicinal_Value": "Parasites (skin)",
+      "Common_Name": "Dalmatian pellitory\r\n",
+      "Latin_Name": "Chrysanthemum cineraiacfolium",
+      "Local_Names": "pyrethrum",
+      "Parts_of_plant": "flower",
+      "process": "decoction",
+      "image": "https://images.squarespace-cdn.com/content/v1/5324bf63e4b05fc1fc6ea99d/1598026969468-K2ZID35D5LX5RGKX8FCS/pyrethrum-daisy.jpg?format=750w",
+      "lat": 32.013917,
+      "long": 44.325222
+    },
+    {
+      "Medicinal_Value": "Constipation",
+      "Common_Name": "schard",
+      "Latin_Name": "Citrullus colocynthis",
+      "Local_Names": "hanthale, handhal",
+      "Parts_of_plant": "fruit",
+      "process": "decoction",
+      "image": "https://images.squarespace-cdn.com/content/v1/5324bf63e4b05fc1fc6ea99d/1598026969468-K2ZID35D5LX5RGKX8FCS/pyrethrum-daisy.jpg?format=750w",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "jaundice",
+      "Common_Name": "schard",
+      "Latin_Name": "Citrullus colocynthis",
+      "Local_Names": "hanthale, handhal",
+      "Parts_of_plant": "fruit",
+      "process": "decoction",
+      "image": "https://images.squarespace-cdn.com/content/v1/5324bf63e4b05fc1fc6ea99d/1598026969468-K2ZID35D5LX5RGKX8FCS/pyrethrum-daisy.jpg?format=750w",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "cancer",
+      "Common_Name": "schard",
+      "Latin_Name": "Citrullus colocynthis",
+      "Local_Names": "hanthale, handhal",
+      "Parts_of_plant": "fruit",
+      "process": "decoction",
+      "image": "https://images.squarespace-cdn.com/content/v1/5324bf63e4b05fc1fc6ea99d/1598026969468-K2ZID35D5LX5RGKX8FCS/pyrethrum-daisy.jpg?format=750w",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Menstruation (light)",
+      "Common_Name": "schard",
+      "Latin_Name": "Citrullus colocynthis",
+      "Local_Names": "hanthale, handhal",
+      "Parts_of_plant": "fruit",
+      "process": "decoction",
+      "image": "https://images.squarespace-cdn.com/content/v1/5324bf63e4b05fc1fc6ea99d/1598026969468-K2ZID35D5LX5RGKX8FCS/pyrethrum-daisy.jpg?format=750w",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Arthritis ",
+      "Common_Name": "Schott",
+      "Latin_Name": "Colchicum candidum",
+      "Local_Names": "Mebsharat Alshitai",
+      "Parts_of_plant": "rhizome, seeds",
+      "process": "decoction",
+      "image": "http://yabanicicekler.com/upload/image/flower/thumbs/d0fcb39b1e0595cceb4defc797215bfc.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Insomnia",
+      "Common_Name": "Hemlock",
+      "Latin_Name": "Conium maculatum",
+      "Local_Names": "shokran",
+      "Parts_of_plant": "fruits, leaves, roots",
+      "process": "decoction",
+      "image": "https://extension.umd.edu/sites/extension.umd.edu/files/styles/optimized/public/2021-07/Agronomy_News_July_2021_PoisonHemlock_D_Behnke.jpg?itok=p6xFQ_5I"
+    },
+    {
+      "Medicinal_Value": "Insomnia",
+      "Common_Name": "Hemlock",
+      "Latin_Name": "Conium maculatum",
+      "Local_Names": "shokran",
+      "Parts_of_plant": "fruits, leaves, roots",
+      "process": "decoction",
+      "image": "https://extension.umd.edu/sites/extension.umd.edu/files/styles/optimized/public/2021-07/Agronomy_News_July_2021_PoisonHemlock_D_Behnke.jpg?itok=p6xFQ_5I"
+    },
+    {
+      "Medicinal_Value": "congestion",
+      "Common_Name": "Cotoneaster",
+      "Latin_Name": "Cotoneaster raciniflora",
+      "Local_Names": "sefergelia",
+      "Parts_of_plant": "whole",
+      "process": "decoction",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Cotoneaster_racemiflorus_%C3%96BG_2012-05-20_03.jpg",
+      "lat": "32.466833; 32.466833 ",
+      "long": "44.161083; 44.161083"
+    },
+    {
+      "Medicinal_Value": "Low Appetite",
+      "Common_Name": "Cotoneaster",
+      "Latin_Name": "Cotoneaster raciniflora",
+      "Local_Names": "sefergelia",
+      "Parts_of_plant": "whole",
+      "process": "decoction",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Cotoneaster_racemiflorus_%C3%96BG_2012-05-20_03.jpg",
+      "lat": "32.466833; 32.466833 ",
+      "long": "44.161083; 44.161083"
+    },
+    {
+      "Medicinal_Value": "Pain (abdominal)",
+      "Common_Name": "Cotoneaster",
+      "Latin_Name": "Cotoneaster raciniflora",
+      "Local_Names": "sefergelia",
+      "Parts_of_plant": "whole",
+      "process": "decoction",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Cotoneaster_racemiflorus_%C3%96BG_2012-05-20_03.jpg",
+      "lat": "32.466833; 32.466833 ",
+      "long": "44.161083; 44.161083"
+    },
+    {
+      "Medicinal_Value": "typhoid fever",
+      "Common_Name": "Cotoneaster",
+      "Latin_Name": "Cotoneaster raciniflora",
+      "Local_Names": "sefergelia",
+      "Parts_of_plant": "whole",
+      "process": "diluted",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Cotoneaster_racemiflorus_%C3%96BG_2012-05-20_03.jpg",
+      "lat": "32.466833; 32.466833 ",
+      "long": "44.161083; 44.161083"
+    },
+    {
+      "Medicinal_Value": "Constipation",
+      "Common_Name": "Cotoneaster",
+      "Latin_Name": "Cotoneaster raciniflora",
+      "Local_Names": "sefergelia",
+      "Parts_of_plant": "whole",
+      "process": "with sugar",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Cotoneaster_racemiflorus_%C3%96BG_2012-05-20_03.jpg",
+      "lat": "32.466833; 32.466833 ",
+      "long": "44.161083; 44.161083"
+    },
+    {
+      "Medicinal_Value": "Parasites (intestinal)",
+      "Common_Name": "Acorn squash",
+      "Latin_Name": "Cucurbita pepo",
+      "Local_Names": "shajer helo",
+      "Parts_of_plant": "seeds",
+      "process": "decoction",
+      "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTr9QSIc09SPOJy_7wXFG_ijct7UqN1t5Ix2SwyOuSNdh1ebkpbt_ARTgoTSL_yJN9mt3UNgE1s5WwYtq0",
+      "lat": 32.013917,
+      "long": 44.325222
+    },
+    {
+      "Medicinal_Value": "diuretic",
+      "Common_Name": "Acorn squash",
+      "Latin_Name": "Cucurbita pepo",
+      "Local_Names": "shajer helo",
+      "Parts_of_plant": "seeds",
+      "process": "decoction",
+      "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTr9QSIc09SPOJy_7wXFG_ijct7UqN1t5Ix2SwyOuSNdh1ebkpbt_ARTgoTSL_yJN9mt3UNgE1s5WwYtq1",
+      "lat": 32.013917,
+      "long": 44.325222
+    },
+    {
+      "Medicinal_Value": "tonic",
+      "Common_Name": "Acorn squash",
+      "Latin_Name": "Cucurbita pepo",
+      "Local_Names": "shajer helo",
+      "Parts_of_plant": "seeds",
+      "process": "decoction",
+      "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTr9QSIc09SPOJy_7wXFG_ijct7UqN1t5Ix2SwyOuSNdh1ebkpbt_ARTgoTSL_yJN9mt3UNgE1s5WwYtq2",
+      "lat": 32.013917,
+      "long": 44.325222
+    },
+    {
+      "Medicinal_Value": "stress",
+      "Common_Name": "Acorn squash",
+      "Latin_Name": "Cucurbita pepo",
+      "Local_Names": "shajer helo",
+      "Parts_of_plant": "seeds",
+      "process": "oil",
+      "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTr9QSIc09SPOJy_7wXFG_ijct7UqN1t5Ix2SwyOuSNdh1ebkpbt_ARTgoTSL_yJN9mt3UNgE1s5WwYtq3",
+      "lat": 32.013917,
+      "long": 44.325222
+    },
+    {
+      "Medicinal_Value": "Pain (abdominal)",
+      "Common_Name": "spreng",
+      "Latin_Name": "Cymbopagon schoenanthus",
+      "Local_Names": "Athkhur, Teben Mecca",
+      "Parts_of_plant": "roots, leaves",
+      "process": "decoction",
+      "image": "https://www.cabidigitallibrary.org/doi/10.1079/cabicompendium.85275662#image-119564",
+      "lat": "32.013917; 32.149694; 32.157528; 32.466833 ",
+      "long": "44.325222; 44.322972; 44.337111; 44.161083"
+    },
+    {
+      "Medicinal_Value": "Gas",
+      "Common_Name": "spreng",
+      "Latin_Name": "Cymbopagon schoenanthus",
+      "Local_Names": "Athkhur, Teben Mecca",
+      "Parts_of_plant": "roots, leaves",
+      "process": "decoction",
+      "image": "https://www.cabidigitallibrary.org/doi/10.1079/cabicompendium.85275662#image-119565",
+      "lat": "32.013917; 32.149694; 32.157528; 32.466833 ",
+      "long": "44.325222; 44.322972; 44.337111;44.161083"
+    },
+    {
+      "Medicinal_Value": "tonic",
+      "Common_Name": "spreng",
+      "Latin_Name": "Cymbopagon schoenanthus",
+      "Local_Names": "Athkhur, Teben Mecca",
+      "Parts_of_plant": "roots, leaves",
+      "process": "decoction",
+      "image": "https://www.cabidigitallibrary.org/doi/10.1079/cabicompendium.85275662#image-119566",
+      "lat": "32.013917; 32.149694; 32.157528; 32.466833 ",
+      "long": "44.325222; 44.322972; 44.337111;44.161083"
+    },
+    {
+      "Medicinal_Value": "Fever",
+      "Common_Name": "Nut grass\r\n",
+      "Latin_Name": "Cyperus rotundus",
+      "Local_Names": "alseid",
+      "Parts_of_plant": "rhizome",
+      "process": "decoction",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/77faadc1c456fb524e5da4ac5cb93603.jpg"
+    },
+    {
+      "Medicinal_Value": "Diarrhea ",
+      "Common_Name": "Nut grass\r\n",
+      "Latin_Name": "Cyperus rotundus",
+      "Local_Names": "alseid",
+      "Parts_of_plant": "rhizome",
+      "process": "decoction",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/77faadc1c456fb524e5da4ac5cb93603.jpg"
+    },
+    {
+      "Medicinal_Value": "Inflammation",
+      "Common_Name": "Nut grass\r\n",
+      "Latin_Name": "Cyperus rotundus",
+      "Local_Names": "alseid",
+      "Parts_of_plant": "rhizome",
+      "process": "decoction",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/77faadc1c456fb524e5da4ac5cb93603.jpg"
+    },
+    {
+      "Medicinal_Value": "diuretic",
+      "Common_Name": " false hemp",
+      "Latin_Name": "Datisca cannabina",
+      "Local_Names": "Gebal Hindi",
+      "Parts_of_plant": "whole",
+      "process": "decoction",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/ba454c95e7fcfa8ff2f7c772a4fde0dc.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "congestion",
+      "Common_Name": " false hemp",
+      "Latin_Name": "Datisca cannabina",
+      "Local_Names": "Gebal Hindi",
+      "Parts_of_plant": "whole",
+      "process": "decoction",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/ba454c95e7fcfa8ff2f7c772a4fde0dc.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Constipation",
+      "Common_Name": " false hemp",
+      "Latin_Name": "Datisca cannabina",
+      "Local_Names": "Gebal Hindi",
+      "Parts_of_plant": "whole",
+      "process": "decoction",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/ba454c95e7fcfa8ff2f7c772a4fde0dc.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Lice",
+      "Common_Name": "Rocket Larkspur",
+      "Latin_Name": "Delphinium ajacis",
+      "Local_Names": "lesan althour",
+      "Parts_of_plant": "seeds",
+      "process": "decoction",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/abca118b7f452990fdfa80267273032f.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "heart tonic",
+      "Common_Name": "carnation\r\n",
+      "Latin_Name": "Dianthus caryophyllus",
+      "Local_Names": "Khrenfel",
+      "Parts_of_plant": "flower",
+      "process": "decoction",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/a4a05fc77eb5591e0f237b8c5a6b746b.jpg"
+    },
+    {
+      "Medicinal_Value": "Fever",
+      "Common_Name": "carnation\r\n",
+      "Latin_Name": "Dianthus caryophyllus",
+      "Local_Names": "Khrenfel",
+      "Parts_of_plant": "flower",
+      "process": "decoction",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/a4a05fc77eb5591e0f237b8c5a6b746b.jpg"
+    },
+    {
+      "Medicinal_Value": "Pain (abdominal)",
+      "Common_Name": "Hyacinth bean\r\n",
+      "Latin_Name": "Dolichos lablab",
+      "Local_Names": "liblab",
+      "Parts_of_plant": "seeds",
+      "process": "decoction",
+      "image": "https://toptropicals.com/pics/garden/m1/sinije/Lablab_purpureus3620.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Low Libido",
+      "Common_Name": "Hyacinth bean\r\n",
+      "Latin_Name": "Dolichos lablab",
+      "Local_Names": "liblab",
+      "Parts_of_plant": "seeds",
+      "process": "decoction",
+      "image": "https://toptropicals.com/pics/garden/m1/sinije/Lablab_purpureus3620.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Excessive bleeding",
+      "Common_Name": "Cockspur grass\r\n",
+      "Latin_Name": "Echinochloa crusigalli",
+      "Local_Names": "denan",
+      "Parts_of_plant": "whole",
+      "process": "decoction",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/ed254cfb3bb0573a1569f7e13267457a.jpg",
+      "lat": 32.286722,
+      "long": 44.279917
+    },
+    {
+      "Medicinal_Value": "Spleen",
+      "Common_Name": "Cockspur grass\r\n",
+      "Latin_Name": "Echinochloa crusigalli",
+      "Local_Names": "denan",
+      "Parts_of_plant": "whole",
+      "process": "decoction",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/ed254cfb3bb0573a1569f7e13267457a.jpg",
+      "lat": 32.286722,
+      "long": 44.279917
+    },
+    {
+      "Medicinal_Value": "Fever",
+      "Common_Name": "Russian Olive\r\n",
+      "Latin_Name": "Elaegnus angustifolia",
+      "Local_Names": "Denged, Zakoon",
+      "Parts_of_plant": "flowers",
+      "process": "juice",
+      "image": "https://s3.amazonaws.com/eit-planttoolbox-prod/media/images/elaeagnus_angustifolia_leaf_Hans_Hillewaert_cc_by_nc_nd_20_sm_xEnwL7H.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Excessive bleeding",
+      "Common_Name": "Horseweed\r\n",
+      "Latin_Name": "Erigeron canadensis",
+      "Local_Names": "thewel altheb",
+      "Parts_of_plant": "whole",
+      "process": "decoction",
+      "image": "https://s3.amazonaws.com/eit-planttoolbox-prod/media/images/Conyza_canadensis_fl_yeusKC72U3Qr.jpe"
+    },
+    {
+      "Medicinal_Value": "Insomnia",
+      "Common_Name": "Horseweed\r\n",
+      "Latin_Name": "Erigeron canadensis",
+      "Local_Names": "thewel altheb",
+      "Parts_of_plant": "whole",
+      "process": "decoction",
+      "image": "https://s3.amazonaws.com/eit-planttoolbox-prod/media/images/Conyza_canadensis_fl_yeusKC72U3Qr.jpe"
+    },
+    {
+      "Medicinal_Value": "Menstruation (abnormal)",
+      "Common_Name": "Common storks-bill\r\n",
+      "Latin_Name": "Erodium cicutarium",
+      "Local_Names": "bekhteri",
+      "Parts_of_plant": "whole",
+      "process": "decoction",
+      "image": "https://newfs.s3.amazonaws.com/taxon-images-1000s1000/Geraniaceae/erodium-cicutarium-st-dzimmerman-b.jpg"
+    },
+    {
+      "Medicinal_Value": "Inflammation",
+      "Common_Name": "Common storks-bill\r\n",
+      "Latin_Name": "Erodium cicutarium",
+      "Local_Names": "bekhteri",
+      "Parts_of_plant": "whole",
+      "process": "decoction",
+      "image": "https://newfs.s3.amazonaws.com/taxon-images-1000s1000/Geraniaceae/erodium-cicutarium-st-dzimmerman-b.jpg"
+    },
+    {
+      "Medicinal_Value": "Detox",
+      "Common_Name": "coolibah",
+      "Latin_Name": "Eucalyptus microtheca",
+      "Local_Names": "kalebtoz",
+      "Parts_of_plant": "leaves",
+      "process": "oil",
+      "image": "https://apps.cals.arizona.edu/arboretum/photos/euc_mic-108/euc-mic__-___-med.JPG",
+      "lat": "32.013917; 32.286722 ",
+      "long": "44.325222; 44.279917"
+    },
+    {
+      "Medicinal_Value": "Parasites (intestinal)",
+      "Common_Name": "sun spurge\r\n",
+      "Latin_Name": "Euphorbia helioscopia",
+      "Local_Names": "khenak aldajaj",
+      "Parts_of_plant": "roots",
+      "process": "decoction",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/e17a8ef5faa4e365c57199d1fd672225.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Constipation",
+      "Common_Name": "sun spurge\r\n",
+      "Latin_Name": "Euphorbia helioscopia",
+      "Local_Names": "khenak aldajaj",
+      "Parts_of_plant": "roots",
+      "process": "decoction",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/e17a8ef5faa4e365c57199d1fd672225.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Parasites (intestinal)",
+      "Common_Name": "sun spurge\r\n",
+      "Latin_Name": "Euphorbia helioscopia",
+      "Local_Names": "khenak aldajaj",
+      "Parts_of_plant": "leaves",
+      "process": "decoction",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/e17a8ef5faa4e365c57199d1fd672225.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Inflammation (body)",
+      "Common_Name": "sun spurge\r\n",
+      "Latin_Name": "Euphorbia helioscopia",
+      "Local_Names": "khenak aldajaj",
+      "Parts_of_plant": "leaves",
+      "process": "decoction",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/e17a8ef5faa4e365c57199d1fd672225.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Malaria",
+      "Common_Name": "sun spurge\r\n",
+      "Latin_Name": "Euphorbia helioscopia",
+      "Local_Names": "khenak aldajaj",
+      "Parts_of_plant": "leaves",
+      "process": "decoction",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/e17a8ef5faa4e365c57199d1fd672225.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Fever",
+      "Common_Name": "sun spurge\r\n",
+      "Latin_Name": "Euphorbia helioscopia",
+      "Local_Names": "khenak aldajaj",
+      "Parts_of_plant": "leaves",
+      "process": "decoction",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/e17a8ef5faa4e365c57199d1fd672225.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "skin disorder",
+      "Common_Name": "drooping fig",
+      "Latin_Name": "Ficus cunia Buch",
+      "Local_Names": "teen bere",
+      "Parts_of_plant": "fruit",
+      "process": "decoction",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwudGMWG56KoPCG3-ZKDLFCokidE4C_rKzXg&usqp=CAU",
+      "lat": "32.286722; 32.466833 ",
+      "long": "44.279917;44.161083"
+    },
+    {
+      "Medicinal_Value": "Boils",
+      "Common_Name": "drooping fig",
+      "Latin_Name": "Ficus cunia Buch",
+      "Local_Names": "teen bere",
+      "Parts_of_plant": "fruit",
+      "process": "decoction",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwudGMWG56KoPCG3-ZKDLFCokidE4C_rKzXg&usqp=CAU",
+      "lat": "32.286722; 32.466833 ",
+      "long": "44.279917;44.161083"
+    },
+    {
+      "Medicinal_Value": "Irritable Bowel Disease",
+      "Common_Name": "drooping fig",
+      "Latin_Name": "Ficus cunia Buch",
+      "Local_Names": "teen bere",
+      "Parts_of_plant": "fruit",
+      "process": "decoction",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwudGMWG56KoPCG3-ZKDLFCokidE4C_rKzXg&usqp=CAU",
+      "lat": "32.286722; 32.466833 ",
+      "long": "44.279917;44.161083"
+    },
+    {
+      "Medicinal_Value": "Constipation",
+      "Common_Name": "Sacred fig\r\n",
+      "Latin_Name": "ficus religiosa",
+      "Local_Names": "teen asnam",
+      "Parts_of_plant": "leaves, seeds",
+      "process": "decoction",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/942306df6f0bd61512da5c6f23503ab4.jpg",
+      "lat": "32.286722; 32.466833 ",
+      "long": "44.279917; 44.161083"
+    },
+    {
+      "Medicinal_Value": "Skin ulcers",
+      "Common_Name": "Sacred fig\r\n",
+      "Latin_Name": "ficus religiosa",
+      "Local_Names": "teen asnam",
+      "Parts_of_plant": "bark",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/942306df6f0bd61512da5c6f23503ab4.jpg",
+      "lat": "32.286722; 32.466833 ",
+      "long": "44.279917; 44.161083"
+    },
+    {
+      "Medicinal_Value": "Constipation",
+      "Common_Name": "Cleavers\r\n",
+      "Latin_Name": "galium aparine",
+      "Local_Names": "hasheshat alafaa",
+      "Parts_of_plant": "aerial",
+      "process": "decoction",
+      "image": "https://storage.googleapis.com/powop-assets/kew_profiles/PPCONT_010450_fullsize.jpg",
+      "lat": "32.466833; 32.466833 ",
+      "long": "44.161083; 44.161083"
+    },
+    {
+      "Medicinal_Value": "General Health",
+      "Common_Name": "Cleavers\r\n",
+      "Latin_Name": "galium aparine",
+      "Local_Names": "hasheshat alafaa",
+      "Parts_of_plant": "aerial",
+      "process": "decoction",
+      "image": "https://storage.googleapis.com/powop-assets/kew_profiles/PPCONT_010450_fullsize.jpg",
+      "lat": "32.466833; 32.466833 ",
+      "long": "44.161083; 44.161083"
+    },
+    {
+      "Medicinal_Value": "Fever",
+      "Common_Name": "Cleavers\r\n",
+      "Latin_Name": "galium aparine",
+      "Local_Names": "hasheshat alafaa",
+      "Parts_of_plant": "aerial",
+      "process": "decoction",
+      "image": "https://storage.googleapis.com/powop-assets/kew_profiles/PPCONT_010450_fullsize.jpg",
+      "lat": "32.466833; 32.466833 ",
+      "long": "44.161083; 44.161083"
+    },
+    {
+      "Medicinal_Value": "Pain (abdominal)",
+      "Common_Name": "Cleavers\r\n",
+      "Latin_Name": "galium aparine",
+      "Local_Names": "hasheshat alafaa",
+      "Parts_of_plant": "aerial",
+      "process": "decoction",
+      "image": "https://storage.googleapis.com/powop-assets/kew_profiles/PPCONT_010450_fullsize.jpg",
+      "lat": "32.466833; 32.466833 ",
+      "long": "44.161083; 44.161083"
+    },
+    {
+      "Medicinal_Value": "kidney stones",
+      "Common_Name": "Ladys bedstraw\r\n",
+      "Latin_Name": "galium verum",
+      "Local_Names": "bakhlat laben",
+      "Parts_of_plant": "aerial",
+      "process": "infusion",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/449a2238771af1cb46557b6a90f7b0ac.jpg",
+      "lat": 32.286722,
+      "long": 44.279917
+    },
+    {
+      "Medicinal_Value": "acid reflux",
+      "Common_Name": "Ladys bedstraw\r\n",
+      "Latin_Name": "galium verum",
+      "Local_Names": "bakhlat laben",
+      "Parts_of_plant": "aerial",
+      "process": "infusion",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/449a2238771af1cb46557b6a90f7b0ac.jpg"
+    },
+    {
+      "Medicinal_Value": "Insomnia",
+      "Common_Name": "Red horned-poppy",
+      "Latin_Name": "glaucium corniculatum",
+      "Local_Names": "ward nesan",
+      "Parts_of_plant": "roots",
+      "process": "decoction",
+      "image": "https://storage.googleapis.com/powop-assets/neotropikey/glaucium_corniculatum_habit_dennis_stevenson_fullsize.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Feeling hot",
+      "Common_Name": "Red horned-poppy",
+      "Latin_Name": "glaucium corniculatum",
+      "Local_Names": "ward nesan",
+      "Parts_of_plant": "roots",
+      "process": "decoction",
+      "image": "https://storage.googleapis.com/powop-assets/neotropikey/glaucium_corniculatum_habit_dennis_stevenson_fullsize.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Constipation",
+      "Common_Name": "Red horned-poppy",
+      "Latin_Name": "glaucium corniculatum",
+      "Local_Names": "ward nesan",
+      "Parts_of_plant": "roots",
+      "process": "decoction",
+      "image": "https://storage.googleapis.com/powop-assets/neotropikey/glaucium_corniculatum_habit_dennis_stevenson_fullsize.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Diarrhea ",
+      "Common_Name": "Jersey cudweed\r\n",
+      "Latin_Name": "Gnaphalium luteo album",
+      "Local_Names": "khutaina",
+      "Parts_of_plant": "leaves",
+      "process": "decoction",
+      "image": "https://www.calflora.org/app/up/entry/274/82423.jpg"
+    },
+    {
+      "Medicinal_Value": "Wounds",
+      "Common_Name": "Jersey cudweed\r\n",
+      "Latin_Name": "Gnaphalium luteo album",
+      "Local_Names": "khutaina",
+      "Parts_of_plant": "leaves",
+      "process": "decoction",
+      "image": "https://www.calflora.org/app/up/entry/274/82423.jpg"
+    },
+    {
+      "Medicinal_Value": "Arthritis ",
+      "Common_Name": "Jersey cudweed\r\n",
+      "Latin_Name": "Gnaphalium luteo album",
+      "Local_Names": "khutaina",
+      "Parts_of_plant": "leaves",
+      "process": "decoction",
+      "image": "https://www.calflora.org/app/up/entry/274/82423.jpg"
+    },
+    {
+      "Medicinal_Value": "diuretic",
+      "Common_Name": "Common sunflower\r\n",
+      "Latin_Name": "Helianthus annus",
+      "Local_Names": "abad shemis",
+      "Parts_of_plant": "seeds",
+      "process": "decoction",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/botanikfoto-475164-LOptimized.webp"
+    },
+    {
+      "Medicinal_Value": "congestion",
+      "Common_Name": "Common sunflower\r\n",
+      "Latin_Name": "Helianthus annus",
+      "Local_Names": "abad shemis",
+      "Parts_of_plant": "seeds",
+      "process": "decoction",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/botanikfoto-475164-LOptimized.webp"
+    },
+    {
+      "Medicinal_Value": "Diabetes",
+      "Common_Name": "Jerusalem artichoke\r\n",
+      "Latin_Name": "helianthus tuberosus",
+      "Local_Names": "almaza",
+      "Parts_of_plant": "rhizomes",
+      "process": "decoction",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/shutterstock_308723222Optimized.webp",
+      "lat": 32.286722,
+      "long": 44.279917
+    },
+    {
+      "Medicinal_Value": "Detox",
+      "Common_Name": "Schott",
+      "Latin_Name": "Helicophyllum crassipes",
+      "Local_Names": "laea",
+      "Parts_of_plant": "whole",
+      "process": "decoction",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/%D7%9C%D7%95%D7%9C%D7%99%D7%A0%D7%99%D7%AA_Eminium_spiculatum.jpg/640px-%D7%9C%D7%95%D7%9C%D7%99%D7%A0%D7%99%D7%AA_Eminium_spiculatum.jpg",
+      "lat": 32.286722,
+      "long": 44.279917
+    },
+    {
+      "Medicinal_Value": "Parasites (skin)",
+      "Common_Name": "Schott",
+      "Latin_Name": "Helicophyllum crassipes",
+      "Local_Names": "laea",
+      "Parts_of_plant": "whole",
+      "process": "decoction",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/%D7%9C%D7%95%D7%9C%D7%99%D7%A0%D7%99%D7%AA_Eminium_spiculatum.jpg/640px-%D7%9C%D7%95%D7%9C%D7%99%D7%A0%D7%99%D7%AA_Eminium_spiculatum.jpg"
+    },
+    {
+      "Medicinal_Value": "jaundice",
+      "Common_Name": "European heliotrope",
+      "Latin_Name": "Heliothropium europaeum",
+      "Local_Names": "hasheshat alakrab",
+      "Parts_of_plant": "aerial",
+      "process": "decoction",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/ad9614e1ea5a9fefcaa7406ccc3724bb.jpg"
+    },
+    {
+      "Medicinal_Value": "Fever",
+      "Common_Name": "European heliotrope",
+      "Latin_Name": "Heliothropium europaeum",
+      "Local_Names": "hasheshat alakrab",
+      "Parts_of_plant": "aerial",
+      "process": "decoction",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/ad9614e1ea5a9fefcaa7406ccc3724bb.jpg"
+    },
+    {
+      "Medicinal_Value": "Menstruation (light)",
+      "Common_Name": "European heliotrope",
+      "Latin_Name": "Heliothropium europaeum",
+      "Local_Names": "hasheshat alakrab",
+      "Parts_of_plant": "aerial",
+      "process": "decoction",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/ad9614e1ea5a9fefcaa7406ccc3724bb.jpg"
+    },
+    {
+      "Medicinal_Value": "Wounds",
+      "Common_Name": "Rupturewort",
+      "Latin_Name": "Herniaria glabra",
+      "Local_Names": "Shwel",
+      "Parts_of_plant": "aerial",
+      "process": "water maccerate",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/707344d944e65b8abda5b820801878bc.jpg",
+      "lat": 32.286722,
+      "long": 44.279917
+    },
+    {
+      "Medicinal_Value": "Itching and flaking",
+      "Common_Name": "Rupturewort",
+      "Latin_Name": "Herniaria glabra",
+      "Local_Names": "Shwel",
+      "Parts_of_plant": "aerial",
+      "process": "water maccerate",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/707344d944e65b8abda5b820801878bc.jpg"
+    },
+    {
+      "Medicinal_Value": "tonsillitis",
+      "Common_Name": "Hairy rupturewort",
+      "Latin_Name": "Herniaria hirsuta",
+      "Local_Names": "Shwel",
+      "Parts_of_plant": "aerial",
+      "process": "decoction",
+      "image": "https://newfs.s3.amazonaws.com/taxon-images-1000s1000/Caryophyllaceae/herniaria-hirsuta-cinerea-le-kmorse.jpg"
+    },
+    {
+      "Medicinal_Value": "Pancreas",
+      "Common_Name": "Kenaf",
+      "Latin_Name": "Hibiscus cannabinus",
+      "Local_Names": "Teel",
+      "Parts_of_plant": "Flowers",
+      "process": "juice",
+      "image": "https://www.cabidigitallibrary.org/cms/10.1079/cabicompendium.27115/asset/30bfd524-1413-4aae-8e80-04dac5ff9d40/assets/graphic/27115_05.jpg"
+    },
+    {
+      "Medicinal_Value": "syphilis",
+      "Common_Name": "Okra",
+      "Latin_Name": "Hibiscus esculentus",
+      "Local_Names": "Bamea",
+      "Parts_of_plant": "Leaves",
+      "process": "poultice",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/JJBh5IeRewDikOr2tCPDIOcoXXghw5IVjVR1vSOj.webp",
+      "lat": 32.286722,
+      "long": 44.279917
+    },
+    {
+      "Medicinal_Value": "Fever",
+      "Common_Name": "Okra",
+      "Latin_Name": "Hibiscus esculentus",
+      "Local_Names": "Bamea",
+      "Parts_of_plant": "seeds",
+      "process": "roasted",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/JJBh5IeRewDikOr2tCPDIOcoXXghw5IVjVR1vSOj.webp",
+      "lat": 32.286722,
+      "long": 44.279917
+    },
+    {
+      "Medicinal_Value": "DIgestion",
+      "Common_Name": "Roselle",
+      "Latin_Name": "Hibiscus sabdariffa",
+      "Local_Names": "Shae Kojarat",
+      "Parts_of_plant": "Flower",
+      "process": "decoction",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8iGkoDq8o3fqAn3wGjZoH3TKGQLU9grmxeA&usqp=CAU"
+    },
+    {
+      "Medicinal_Value": "diuretic",
+      "Common_Name": "Roselle",
+      "Latin_Name": "Hibiscus sabdariffa",
+      "Local_Names": "Shae Kojarat",
+      "Parts_of_plant": "Flower",
+      "process": "decoction",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8iGkoDq8o3fqAn3wGjZoH3TKGQLU9grmxeA&usqp=CAU"
+    },
+    {
+      "Medicinal_Value": "Insomnia",
+      "Common_Name": "Roselle",
+      "Latin_Name": "Hibiscus sabdariffa",
+      "Local_Names": "Shae Kojarat",
+      "Parts_of_plant": "Flower",
+      "process": "decoction",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8iGkoDq8o3fqAn3wGjZoH3TKGQLU9grmxeA&usqp=CAU"
+    },
+    {
+      "Medicinal_Value": "General health",
+      "Common_Name": "Roselle",
+      "Latin_Name": "Hibiscus sabdariffa",
+      "Local_Names": "Shae Kojarat",
+      "Parts_of_plant": "Flower",
+      "process": "decoction",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8iGkoDq8o3fqAn3wGjZoH3TKGQLU9grmxeA&usqp=CAU"
+    },
+    {
+      "Medicinal_Value": "Constipation",
+      "Common_Name": "Chiense hibiscus",
+      "Latin_Name": "Hibiscus rosa-sinensis",
+      "Local_Names": "Khetma Senea",
+      "Parts_of_plant": "Flower",
+      "process": "powder",
+      "image": "https://cdn.britannica.com/91/239491-004-39F5C525/red-hibiscus-flower-stamen.jpg?s=1500x700&q=85",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Menstruation (light)",
+      "Common_Name": "Chiense hibiscus",
+      "Latin_Name": "Hibiscus rosa-sinensis",
+      "Local_Names": "Khetma Senea",
+      "Parts_of_plant": "Flower",
+      "process": "powder",
+      "image": "https://cdn.britannica.com/91/239491-004-39F5C525/red-hibiscus-flower-stamen.jpg?s=1500x700&q=86",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Low Libido",
+      "Common_Name": "Chiense hibiscus",
+      "Latin_Name": "Hibiscus rosa-sinensis",
+      "Local_Names": "Khetma Senea",
+      "Parts_of_plant": "Flower",
+      "process": "powder",
+      "image": "https://cdn.britannica.com/91/239491-004-39F5C525/red-hibiscus-flower-stamen.jpg?s=1500x700&q=87",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Itching and flaking",
+      "Common_Name": "Chiense hibiscus",
+      "Latin_Name": "Hibiscus rosa-sinensis",
+      "Local_Names": "Khetma Senea",
+      "Parts_of_plant": "Flower",
+      "process": "powder",
+      "image": "https://cdn.britannica.com/91/239491-004-39F5C525/red-hibiscus-flower-stamen.jpg?s=1500x700&q=88",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Cold",
+      "Common_Name": "Chiense hibiscus",
+      "Latin_Name": "Hibiscus rosa-sinensis",
+      "Local_Names": "Khetma Senea",
+      "Parts_of_plant": "leaves",
+      "process": "decoction",
+      "image": "https://cdn.britannica.com/91/239491-004-39F5C525/red-hibiscus-flower-stamen.jpg?s=1500x700&q=89",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Menstruation (light)",
+      "Common_Name": "Chiense hibiscus",
+      "Latin_Name": "Hibiscus rosa-sinensis",
+      "Local_Names": "Khetma Senea",
+      "Parts_of_plant": "roots",
+      "process": "powder",
+      "image": "https://cdn.britannica.com/91/239491-004-39F5C525/red-hibiscus-flower-stamen.jpg?s=1500x700&q=90",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "eye disease",
+      "Common_Name": "Sweet inule",
+      "Latin_Name": "Inula graveolens",
+      "Local_Names": "Shewaser",
+      "Parts_of_plant": "whole",
+      "process": "poultice",
+      "image": "https://ascent-therapies.co.uk/wp-content/uploads/Inula.jpg",
+      "lat": 32.286722,
+      "long": 44.279917
+    },
+    {
+      "Medicinal_Value": "Eye wash",
+      "Common_Name": "Arabian jasmine",
+      "Latin_Name": "Jasminum sambac",
+      "Local_Names": "Full, Razkee",
+      "Parts_of_plant": "roots, flowers",
+      "process": "water solutions",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_wYCYRF0NN5J1XIjwwu4IZEOyxx-MCpUwQnBTM6p_S_i0IbQFC_eGwN0VwU8I-f8Jvrix&s"
+    },
+    {
+      "Medicinal_Value": "eczema ",
+      "Common_Name": "Prockly juniper",
+      "Latin_Name": "Juniperus exycedrus",
+      "Local_Names": "Arar",
+      "process": "oil",
+      "image": "https://www.euforgen.org/fileadmin/templates/euforgen.org/upload/speciesImages/Juniperus_oxycedrus/1.Juniperus_oxycedrus_foliage.jpg",
+      "lat": 32.286722,
+      "long": 44.279917
+    },
+    {
+      "Medicinal_Value": "psoriasis",
+      "Common_Name": "Prockly juniper",
+      "Latin_Name": "Juniperus exycedrus",
+      "Local_Names": "Arar",
+      "process": "oil",
+      "image": "https://www.euforgen.org/fileadmin/templates/euforgen.org/upload/speciesImages/Juniperus_oxycedrus/1.Juniperus_oxycedrus_foliage.jpg"
+    },
+    {
+      "Medicinal_Value": "Skin Ulcers",
+      "Common_Name": "Water primrose",
+      "Latin_Name": "Jussiaea repens",
+      "Local_Names": "Kobani",
+      "Parts_of_plant": "whole",
+      "process": "cataplasm",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Ludwigia_adscendens-4-bsi-yercaud-salem-India.jpg",
+      "lat": 32.286722,
+      "long": 44.279917
+    },
+    {
+      "Medicinal_Value": "Constipation",
+      "Common_Name": "Crape myrtle",
+      "Latin_Name": "Lagerstroemia indica",
+      "Local_Names": "Ward Kahwa",
+      "Parts_of_plant": "bark,leaves",
+      "process": "decoction",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/Lagerstroemia%20Pink%20Velour%20Optimized.webp",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Sleep",
+      "Common_Name": "Crape myrtle",
+      "Latin_Name": "Lagerstroemia indica",
+      "Local_Names": "Ward Kahwa",
+      "Parts_of_plant": "seeds",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/Lagerstroemia%20Pink%20Velour%20Optimized.webp",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Constipation",
+      "Common_Name": "Giant crape-myrtle",
+      "Latin_Name": "Lagerstroemia speciosa",
+      "Local_Names": "Ward kahwa",
+      "Parts_of_plant": "bark,leaves",
+      "process": "decoction",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/Lagerstroemia%20Pink%20Velour%20Optimized.webp"
+    },
+    {
+      "Medicinal_Value": "eczema ",
+      "Common_Name": "Lantana",
+      "Latin_Name": "Lantana camara",
+      "Local_Names": "Mena Shajeree",
+      "process": "oil",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/6c93725ba555c962695ed4448efff297.jpg"
+    },
+    {
+      "Medicinal_Value": "Itching and flaking",
+      "Common_Name": "Lantana",
+      "Latin_Name": "Lantana camara",
+      "Local_Names": "Mena Shajeree",
+      "process": "oil",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/6c93725ba555c962695ed4448efff297.jpg"
+    },
+    {
+      "Medicinal_Value": "Itching and flaking",
+      "Common_Name": "Flax",
+      "Latin_Name": "Linum usitatissimum",
+      "Local_Names": "Kitan",
+      "Parts_of_plant": "seeds",
+      "process": "oil",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/0c41fa9902944f01371a6601b31dbed3.jpg",
+      "lat": "32.286722; 32.466833",
+      "long": "44.279917 44.161083"
+    },
+    {
+      "Medicinal_Value": "Constipation",
+      "Common_Name": "Flax",
+      "Latin_Name": "Linum usitatissimum",
+      "Local_Names": "Kitan",
+      "Parts_of_plant": "seeds",
+      "process": "oil",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/0c41fa9902944f01371a6601b31dbed3.jpg",
+      "lat": "32.286722; 32.466833",
+      "long": "44.279917 44.161083"
+    },
+    {
+      "Medicinal_Value": "urinary tract infection",
+      "Common_Name": "Flax",
+      "Latin_Name": "Linum usitatissimum",
+      "Local_Names": "Kitan",
+      "Parts_of_plant": "seeds",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/0c41fa9902944f01371a6601b31dbed3.jpg",
+      "lat": "32.286722; 32.466833",
+      "long": "44.279917 44.161083"
+    },
+    {
+      "Medicinal_Value": "prostrate",
+      "Common_Name": "Flax",
+      "Latin_Name": "Linum usitatissimum",
+      "Local_Names": "Kitan",
+      "Parts_of_plant": "seeds",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/0c41fa9902944f01371a6601b31dbed3.jpg",
+      "lat": "32.286722; 32.466833",
+      "long": "44.279917 44.161083"
+    },
+    {
+      "Medicinal_Value": "diuretic",
+      "Common_Name": "Frog fruit",
+      "Latin_Name": "Lippia nodiflora",
+      "Local_Names": "Blehha",
+      "Parts_of_plant": "aerial",
+      "image": "https://plantmaster.com/PlantMaster/FullSize/24426g.jpg?v=20230619-020750"
+    },
+    {
+      "Medicinal_Value": "Fever",
+      "Common_Name": "Frog fruit",
+      "Latin_Name": "Lippia nodiflora",
+      "Local_Names": "Blehha",
+      "Parts_of_plant": "aerial",
+      "image": "https://plantmaster.com/PlantMaster/FullSize/24426g.jpg?v=20230619-020751"
+    },
+    {
+      "Medicinal_Value": "Wounds",
+      "Common_Name": "Frog fruit",
+      "Latin_Name": "Lippia nodiflora",
+      "Local_Names": "Blehha",
+      "process": "poultice",
+      "image": "https://plantmaster.com/PlantMaster/FullSize/24426g.jpg?v=20230619-020752"
+    },
+    {
+      "Medicinal_Value": "skin ulcers",
+      "Common_Name": "Frog fruit",
+      "Latin_Name": "Lippia nodiflora",
+      "Local_Names": "Blehha",
+      "process": "poultice",
+      "image": "https://plantmaster.com/PlantMaster/FullSize/24426g.jpg?v=20230619-020753"
+    },
+    {
+      "Medicinal_Value": "Infection (bacterial)",
+      "Common_Name": "Frog fruit",
+      "Latin_Name": "Lippia nodiflora",
+      "Local_Names": "Blehha",
+      "Parts_of_plant": "leaves",
+      "process": "extract",
+      "image": "https://plantmaster.com/PlantMaster/FullSize/24426g.jpg?v=20230619-020754"
+    },
+    {
+      "Medicinal_Value": "diuretic",
+      "Common_Name": "Common gromwell",
+      "Latin_Name": "Lithospermum officinale",
+      "Local_Names": "Hab Alkalib",
+      "Parts_of_plant": "seeds",
+      "image": "https://newfs.s3.amazonaws.com/taxon-images-1000s1000/Boraginaceae/lithospermum-officinale-fl-kuleuven.jpg"
+    },
+    {
+      "Medicinal_Value": "Inflammation (colitis)",
+      "Common_Name": "Common gromwell",
+      "Latin_Name": "Lithospermum officinale",
+      "Local_Names": "Hab Alkalib",
+      "Parts_of_plant": "seeds",
+      "image": "https://newfs.s3.amazonaws.com/taxon-images-1000s1000/Boraginaceae/lithospermum-officinale-fl-kuleuven.jpg"
+    },
+    {
+      "Medicinal_Value": "kidney stones",
+      "Common_Name": "Common gromwell",
+      "Latin_Name": "Lithospermum officinale",
+      "Local_Names": "Hab Alkalib",
+      "Parts_of_plant": "seeds",
+      "image": "https://newfs.s3.amazonaws.com/taxon-images-1000s1000/Boraginaceae/lithospermum-officinale-fl-kuleuven.jpg"
+    },
+    {
+      "Medicinal_Value": "Insomnia",
+      "Common_Name": "Common gromwell",
+      "Latin_Name": "Lithospermum officinale",
+      "Local_Names": "Hab Alkalib",
+      "Parts_of_plant": "leaves",
+      "process": "infusion",
+      "image": "https://newfs.s3.amazonaws.com/taxon-images-1000s1000/Boraginaceae/lithospermum-officinale-fl-kuleuven.jpg"
+    },
+    {
+      "Medicinal_Value": "inflammation (eyes)",
+      "Common_Name": "Luffa",
+      "Latin_Name": "Luffa acutangula",
+      "Local_Names": "Leef",
+      "Parts_of_plant": "leaf",
+      "process": "juice",
+      "image": "https://www.nparks.gov.sg/-/media/ffw/migrated/round2/flora/4988/7f0406ec214a4574a017052dee4056b7.ashx"
+    },
+    {
+      "Medicinal_Value": "Lipid gland dysfunction",
+      "Common_Name": "Luffa",
+      "Latin_Name": "Luffa acutangula",
+      "Local_Names": "Leef",
+      "Parts_of_plant": "leaf",
+      "process": "juice",
+      "image": "https://www.nparks.gov.sg/-/media/ffw/migrated/round2/flora/4988/7f0406ec214a4574a017052dee4056b7.ashx"
+    },
+    {
+      "Medicinal_Value": "Constipation",
+      "Common_Name": "Wolfberry",
+      "Latin_Name": "Lycium barbarum",
+      "Local_Names": "Auosage",
+      "Parts_of_plant": "aerial",
+      "process": "decoction",
+      "image": "https://www.provenwinners.com/sites/provenwinners.com/files/imagecache/500x500/ifa_upload/proven_winners_lycium_sweet_lifeberry_goji_berry_0.jpg",
+      "lat": "32.466833; 32.466833 ",
+      "long": "44.161083;44.161083"
+    },
+    {
+      "Medicinal_Value": "Pain (abdominal)",
+      "Common_Name": "Wolfberry",
+      "Latin_Name": "Lycium barbarum",
+      "Local_Names": "Auosage",
+      "Parts_of_plant": "aerial",
+      "process": "decoction",
+      "image": "https://www.provenwinners.com/sites/provenwinners.com/files/imagecache/500x500/ifa_upload/proven_winners_lycium_sweet_lifeberry_goji_berry_0.jpg",
+      "lat": "32.466833; 32.466833 ",
+      "long": "44.161083;44.161083"
+    },
+    {
+      "Medicinal_Value": "diuretic",
+      "Common_Name": "Wolfberry",
+      "Latin_Name": "Lycium barbarum",
+      "Local_Names": "Auosage",
+      "Parts_of_plant": "aerial",
+      "process": "decoction",
+      "image": "https://www.provenwinners.com/sites/provenwinners.com/files/imagecache/500x500/ifa_upload/proven_winners_lycium_sweet_lifeberry_goji_berry_0.jpg",
+      "lat": "32.466833; 32.466833 ",
+      "long": "44.161083;44.161083"
+    },
+    {
+      "Medicinal_Value": "Low Libido",
+      "Common_Name": "Wolfberry",
+      "Latin_Name": "Lycium barbarum",
+      "Local_Names": "Auosage",
+      "Parts_of_plant": "aerial",
+      "process": "decoction",
+      "image": "https://www.provenwinners.com/sites/provenwinners.com/files/imagecache/500x500/ifa_upload/proven_winners_lycium_sweet_lifeberry_goji_berry_0.jpg",
+      "lat": "32.466833; 32.466833 ",
+      "long": "44.161083;44.161083"
+    },
+    {
+      "Medicinal_Value": "Cold",
+      "Common_Name": "White horehound",
+      "Latin_Name": "Marrubium vulgare",
+      "Local_Names": "Heshshat Alkalb",
+      "Parts_of_plant": "Leaves, flowering tops",
+      "process": "infusion",
+      "image": "https://beehappyplants.co.uk/wp-content/uploads/2019/03/Marrubium-vulgare-2-Malrove-Saxifraga-Jan-van-der-Straaten-1.jpg"
+    },
+    {
+      "Medicinal_Value": "congestion",
+      "Common_Name": "White horehound",
+      "Latin_Name": "Marrubium vulgare",
+      "Local_Names": "Heshshat Alkalb",
+      "Parts_of_plant": "Leaves, flowering tops",
+      "process": "infusion",
+      "image": "https://beehappyplants.co.uk/wp-content/uploads/2019/03/Marrubium-vulgare-2-Malrove-Saxifraga-Jan-van-der-Straaten-1.jpg"
+    },
+    {
+      "Medicinal_Value": "diuretic",
+      "Common_Name": "White horehound",
+      "Latin_Name": "Marrubium vulgare",
+      "Local_Names": "Heshshat Alkalb",
+      "Parts_of_plant": "Leaves, flowering tops",
+      "process": "infusion",
+      "image": "https://beehappyplants.co.uk/wp-content/uploads/2019/03/Marrubium-vulgare-2-Malrove-Saxifraga-Jan-van-der-Straaten-1.jpg"
+    },
+    {
+      "Medicinal_Value": "Gas",
+      "Common_Name": "White horehound",
+      "Latin_Name": "Marrubium vulgare",
+      "Local_Names": "Heshshat Alkalb",
+      "Parts_of_plant": "Leaves, flowering tops",
+      "process": "infusion",
+      "image": "https://beehappyplants.co.uk/wp-content/uploads/2019/03/Marrubium-vulgare-2-Malrove-Saxifraga-Jan-van-der-Straaten-1.jpg"
+    },
+    {
+      "Medicinal_Value": "General health",
+      "Common_Name": "White horehound",
+      "Latin_Name": "Marrubium vulgare",
+      "Local_Names": "Heshshat Alkalb",
+      "Parts_of_plant": "Leaves, flowering tops",
+      "process": "infusion",
+      "image": "https://beehappyplants.co.uk/wp-content/uploads/2019/03/Marrubium-vulgare-2-Malrove-Saxifraga-Jan-van-der-Straaten-1.jpg"
+    },
+    {
+      "Medicinal_Value": "Fever",
+      "Common_Name": "Chamomile",
+      "Latin_Name": "Matricaria chamomilla",
+      "Local_Names": "Babonage",
+      "Parts_of_plant": "flower",
+      "process": "decoction, infusion",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/rOtzIRLIOhvYa7tstaaqXaP1JiVgY6cIyiwdXm6O.webp"
+    },
+    {
+      "Medicinal_Value": "Cold",
+      "Common_Name": "Chamomile",
+      "Latin_Name": "Matricaria chamomilla",
+      "Local_Names": "Babonage",
+      "Parts_of_plant": "flower",
+      "process": "decoction, infusion",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/rOtzIRLIOhvYa7tstaaqXaP1JiVgY6cIyiwdXm6O.webp"
+    },
+    {
+      "Medicinal_Value": "Arthritis",
+      "Common_Name": "Chamomile",
+      "Latin_Name": "Matricaria chamomilla",
+      "Local_Names": "Babonage",
+      "Parts_of_plant": "flower",
+      "process": "decoction, infusion",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/rOtzIRLIOhvYa7tstaaqXaP1JiVgY6cIyiwdXm6O.webp"
+    },
+    {
+      "Medicinal_Value": "Detox",
+      "Common_Name": "Chamomile",
+      "Latin_Name": "Matricaria chamomilla",
+      "Local_Names": "Babonage",
+      "Parts_of_plant": "flower",
+      "process": "decoction, infusion",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/rOtzIRLIOhvYa7tstaaqXaP1JiVgY6cIyiwdXm6O.webp"
+    },
+    {
+      "Medicinal_Value": "Vaginitis",
+      "Common_Name": "Chamomile",
+      "Latin_Name": "Matricaria chamomilla",
+      "Local_Names": "Babonage",
+      "Parts_of_plant": "flower",
+      "process": "decoction, infusion",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/rOtzIRLIOhvYa7tstaaqXaP1JiVgY6cIyiwdXm6O.webp"
+    },
+    {
+      "Medicinal_Value": "Inflammation (esophogus)",
+      "Common_Name": "Chamomile",
+      "Latin_Name": "Matricaria chamomilla",
+      "Local_Names": "Babonage",
+      "Parts_of_plant": "flower",
+      "process": "decoction, infusion",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/rOtzIRLIOhvYa7tstaaqXaP1JiVgY6cIyiwdXm6O.webp"
+    },
+    {
+      "Medicinal_Value": "gingivitis",
+      "Common_Name": "Chamomile",
+      "Latin_Name": "Matricaria chamomilla",
+      "Local_Names": "Babonage",
+      "Parts_of_plant": "flower",
+      "process": "decoction, infusion",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/rOtzIRLIOhvYa7tstaaqXaP1JiVgY6cIyiwdXm6O.webp"
+    },
+    {
+      "Medicinal_Value": "Inflammation (tongue)",
+      "Common_Name": "Chamomile",
+      "Latin_Name": "Matricaria chamomilla",
+      "Local_Names": "Babonage",
+      "Parts_of_plant": "flower",
+      "process": "decoction, infusion",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/rOtzIRLIOhvYa7tstaaqXaP1JiVgY6cIyiwdXm6O.webp"
+    },
+    {
+      "Medicinal_Value": "Infection (oral)",
+      "Common_Name": "Chamomile",
+      "Latin_Name": "Matricaria chamomilla",
+      "Local_Names": "Babonage",
+      "Parts_of_plant": "flower",
+      "process": "decoction, infusion",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/rOtzIRLIOhvYa7tstaaqXaP1JiVgY6cIyiwdXm6O.webp"
+    },
+    {
+      "Medicinal_Value": "diuretic",
+      "Common_Name": "Persian lilac",
+      "Latin_Name": "Melia azadirachta",
+      "Local_Names": "Sabehbeh",
+      "Parts_of_plant": "leaves",
+      "process": "juice",
+      "image": "https://www.wildflowersprovence.fr/media/plants/melia-azedarach-7edcu.jpg?v=1628355349",
+      "lat": "32.013917; 32.149694; 32.157528 ",
+      "long": "44.325222; 44.322972; 44.337111"
+    },
+    {
+      "Medicinal_Value": "Menstruation (light)",
+      "Common_Name": "Persian lilac",
+      "Latin_Name": "Melia azadirachta",
+      "Local_Names": "Sabehbeh",
+      "Parts_of_plant": "leaves",
+      "process": "juice",
+      "image": "https://www.wildflowersprovence.fr/media/plants/melia-azedarach-7edcu.jpg?v=1628355350",
+      "lat": "32.013917; 32.149694; 32.157528 ",
+      "long": "44.325222; 44.322972; 44.337111"
+    },
+    {
+      "Medicinal_Value": "Cold",
+      "Common_Name": "Persian lilac",
+      "Latin_Name": "Melia azadirachta",
+      "Local_Names": "Sabehbeh",
+      "Parts_of_plant": "leaves",
+      "process": "juice",
+      "image": "https://www.wildflowersprovence.fr/media/plants/melia-azedarach-7edcu.jpg?v=1628355351",
+      "lat": "32.013917; 32.149694; 32.157528 ",
+      "long": "44.325222; 44.322972; 44.337111"
+    },
+    {
+      "Medicinal_Value": "Parasites (intestinal)",
+      "Common_Name": "Persian lilac",
+      "Latin_Name": "Melia azadirachta",
+      "Local_Names": "Sabehbeh",
+      "Parts_of_plant": "leaves",
+      "process": "juice",
+      "image": "https://www.wildflowersprovence.fr/media/plants/melia-azedarach-7edcu.jpg?v=1628355352",
+      "lat": "32.013917; 32.149694; 32.157528 ",
+      "long": "44.325222; 44.322972; 44.337111"
+    },
+    {
+      "Medicinal_Value": "stress",
+      "Common_Name": "Yellow sweet clover",
+      "Latin_Name": "Melilotus officinalis",
+      "Local_Names": "Nefel",
+      "Parts_of_plant": "flowers",
+      "process": "decoction",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjuuDvAHRUNHpRJwvNIs7rDfcJqlPi8_GD-6pI-VynkG3VIkHxeXiiZ7Kcz90OR3xQYtEocQ&s"
+    },
+    {
+      "Medicinal_Value": "Insomnia",
+      "Common_Name": "Yellow sweet clover",
+      "Latin_Name": "Melilotus officinalis",
+      "Local_Names": "Nefel",
+      "Parts_of_plant": "flowers",
+      "process": "decoction",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjuuDvAHRUNHpRJwvNIs7rDfcJqlPi8_GD-6pI-VynkG3VIkHxeXiiZ7Kcz90OR3xQYtEocQ&s"
+    },
+    {
+      "Medicinal_Value": "Fever",
+      "Common_Name": "Yellow sweet clover",
+      "Latin_Name": "Melilotus officinalis",
+      "Local_Names": "Nefel",
+      "Parts_of_plant": "flowers",
+      "process": "decoction",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjuuDvAHRUNHpRJwvNIs7rDfcJqlPi8_GD-6pI-VynkG3VIkHxeXiiZ7Kcz90OR3xQYtEocQ&s"
+    },
+    {
+      "Medicinal_Value": "Fatigue",
+      "Common_Name": "Yellow sweet clover",
+      "Latin_Name": "Melilotus officinalis",
+      "Local_Names": "Nefel",
+      "Parts_of_plant": "flowers",
+      "process": "decoction",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjuuDvAHRUNHpRJwvNIs7rDfcJqlPi8_GD-6pI-VynkG3VIkHxeXiiZ7Kcz90OR3xQYtEocQ&s"
+    },
+    {
+      "Medicinal_Value": "Inflammation (salivary glands)",
+      "Common_Name": "Yellow sweet clover",
+      "Latin_Name": "Melilotus officinalis",
+      "Local_Names": "Nefel",
+      "Parts_of_plant": "flowers",
+      "process": "decoction",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjuuDvAHRUNHpRJwvNIs7rDfcJqlPi8_GD-6pI-VynkG3VIkHxeXiiZ7Kcz90OR3xQYtEocQ&s"
+    },
+    {
+      "Medicinal_Value": "diuretic",
+      "Common_Name": "Lemon balm",
+      "Latin_Name": "Melissa officinalis",
+      "Local_Names": "Hasheshat Alnehal",
+      "Parts_of_plant": "Leaves",
+      "process": "herbal tea",
+      "image": "https://newfs.s3.amazonaws.com/taxon-images-1000s1000/Fabaceae/melilotus-officinalis-ha-ahaines-a.jpg"
+    },
+    {
+      "Medicinal_Value": "Pain",
+      "Common_Name": "Lemon balm",
+      "Latin_Name": "Melissa officinalis",
+      "Local_Names": "Hasheshat Alnehal",
+      "Parts_of_plant": "Leaves",
+      "process": "herbal tea",
+      "image": "https://newfs.s3.amazonaws.com/taxon-images-1000s1000/Fabaceae/melilotus-officinalis-ha-ahaines-a.jpg"
+    },
+    {
+      "Medicinal_Value": "Pain (headache)",
+      "Common_Name": "Lemon balm",
+      "Latin_Name": "Melissa officinalis",
+      "Local_Names": "Hasheshat Alnehal",
+      "Parts_of_plant": "Leaves",
+      "process": "herbal tea",
+      "image": "https://newfs.s3.amazonaws.com/taxon-images-1000s1000/Fabaceae/melilotus-officinalis-ha-ahaines-a.jpg"
+    },
+    {
+      "Medicinal_Value": "Pain (Tooth)",
+      "Common_Name": "Lemon balm",
+      "Latin_Name": "Melissa officinalis",
+      "Local_Names": "Hasheshat Alnehal",
+      "Parts_of_plant": "Leaves",
+      "process": "herbal tea",
+      "image": "https://newfs.s3.amazonaws.com/taxon-images-1000s1000/Fabaceae/melilotus-officinalis-ha-ahaines-a.jpg"
+    },
+    {
+      "Medicinal_Value": "Lactation",
+      "Common_Name": "Lemon balm",
+      "Latin_Name": "Melissa officinalis",
+      "Local_Names": "Hasheshat Alnehal",
+      "Parts_of_plant": "Leaves",
+      "process": "herbal tea",
+      "image": "https://newfs.s3.amazonaws.com/taxon-images-1000s1000/Fabaceae/melilotus-officinalis-ha-ahaines-a.jpg"
+    },
+    {
+      "Medicinal_Value": "Irritable Bowel Disease",
+      "Common_Name": "Four oclock flower",
+      "Latin_Name": "Mirabilis jalappa",
+      "Local_Names": "Lala Abas",
+      "Parts_of_plant": "Leaves",
+      "process": "Juice",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/1c555175018c7cb6ae24bb6b500efcad.jpg"
+    },
+    {
+      "Medicinal_Value": "Itching and flaking",
+      "Common_Name": "Four oclock flower",
+      "Latin_Name": "Mirabilis jalappa",
+      "Local_Names": "Lala Abas",
+      "Parts_of_plant": "Leaves",
+      "process": "Juice",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/1c555175018c7cb6ae24bb6b500efcad.jpg"
+    },
+    {
+      "Medicinal_Value": "Irritation",
+      "Common_Name": "Four oclock flower",
+      "Latin_Name": "Mirabilis jalappa",
+      "Local_Names": "Lala Abas",
+      "Parts_of_plant": "Roots",
+      "process": "Powder",
+      "image": "https://d2seqvvyy3b8p2.cloudfront.net/1c555175018c7cb6ae24bb6b500efcad.jpg"
+    },
+    {
+      "Medicinal_Value": "Low Appetite",
+      "Common_Name": "Bitter-melon",
+      "Latin_Name": "Momordica charantia",
+      "Local_Names": "Kerela",
+      "Parts_of_plant": "fruits",
+      "image": "https://www.nparks.gov.sg/-/media/ffw/protected/flora/1/4/1452/momordica_charantia_jennie_tang_1.ashx",
+      "lat": 32.286722,
+      "long": 44.279917
+    },
+    {
+      "Medicinal_Value": "hemmoroid",
+      "Common_Name": "Bitter-melon",
+      "Latin_Name": "Momordica charantia",
+      "Local_Names": "Kerela",
+      "Parts_of_plant": "fruits",
+      "image": "https://www.nparks.gov.sg/-/media/ffw/protected/flora/1/4/1452/momordica_charantia_jennie_tang_1.ashx"
+    },
+    {
+      "Medicinal_Value": "Arthritis ",
+      "Common_Name": "Bitter-melon",
+      "Latin_Name": "Momordica charantia",
+      "Local_Names": "Kerela",
+      "Parts_of_plant": "fruits",
+      "image": "https://www.nparks.gov.sg/-/media/ffw/protected/flora/1/4/1452/momordica_charantia_jennie_tang_1.ashx"
+    },
+    {
+      "Medicinal_Value": "Parasites (intestinal)",
+      "Common_Name": "Bitter-melon",
+      "Latin_Name": "Momordica charantia",
+      "Local_Names": "Kerela",
+      "Parts_of_plant": "fruits",
+      "image": "https://www.nparks.gov.sg/-/media/ffw/protected/flora/1/4/1452/momordica_charantia_jennie_tang_1.ashx"
+    },
+    {
+      "Medicinal_Value": "Gas",
+      "Common_Name": "Myrtle",
+      "Latin_Name": "Myrtus communis",
+      "Local_Names": "Yas or Aas",
+      "Parts_of_plant": "Leaves",
+      "process": "decoction",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/58649392_m%20Optimized.webp",
+      "lat": 32.013917,
+      "long": 44.325222
+    },
+    {
+      "Medicinal_Value": "Low Appetite",
+      "Common_Name": "Myrtle",
+      "Latin_Name": "Myrtus communis",
+      "Local_Names": "Yas or Aas",
+      "Parts_of_plant": "Leaves",
+      "process": "decoction",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/58649392_m%20Optimized.webp",
+      "lat": 32.013917,
+      "long": 44.325222
+    },
+    {
+      "Medicinal_Value": "Inflammation (brain)",
+      "Common_Name": "Myrtle",
+      "Latin_Name": "Myrtus communis",
+      "Local_Names": "Yas or Aas",
+      "Parts_of_plant": "Leaves",
+      "process": "decoction",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/58649392_m%20Optimized.webp",
+      "lat": 32.013917,
+      "long": 44.325222
+    },
+    {
+      "Medicinal_Value": "seizures and convulsions",
+      "Common_Name": "Myrtle",
+      "Latin_Name": "Myrtus communis",
+      "Local_Names": "Yas or Aas",
+      "Parts_of_plant": "Leaves",
+      "process": "decoction",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/58649392_m%20Optimized.webp",
+      "lat": 32.013917,
+      "long": 44.325222
+    },
+    {
+      "Medicinal_Value": "Poisoning",
+      "Common_Name": "Bunch-flowered narcissus",
+      "Latin_Name": "Narcissus tazetta",
+      "Local_Names": "Nerges",
+      "Parts_of_plant": "roots",
+      "process": "decoction",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/206565Optimized.webp",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Constipation",
+      "Common_Name": "Bunch-flowered narcissus",
+      "Latin_Name": "Narcissus tazetta",
+      "Local_Names": "Nerges",
+      "Parts_of_plant": "roots",
+      "process": "decoction",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/206565Optimized.webp",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "General health",
+      "Common_Name": "Black cumin",
+      "Latin_Name": "Nigella sativa",
+      "Local_Names": "Haba Soda’",
+      "Parts_of_plant": "seeds",
+      "process": "extract",
+      "image": "https://www.incredibleseeds.ca/cdn/shop/products/NigellaLoveInAMist_large.jpg?v=1639099493",
+      "lat": 32.286722,
+      "long": 44.279917
+    },
+    {
+      "Medicinal_Value": "diuretic",
+      "Common_Name": "Black cumin",
+      "Latin_Name": "Nigella sativa",
+      "Local_Names": "Haba Soda’",
+      "Parts_of_plant": "seeds",
+      "process": "extract",
+      "image": "https://www.incredibleseeds.ca/cdn/shop/products/NigellaLoveInAMist_large.jpg?v=1639099494"
+    },
+    {
+      "Medicinal_Value": "Menstruation (light)",
+      "Common_Name": "Black cumin",
+      "Latin_Name": "Nigella sativa",
+      "Local_Names": "Haba Soda’",
+      "Parts_of_plant": "seeds",
+      "process": "extract",
+      "image": "https://www.incredibleseeds.ca/cdn/shop/products/NigellaLoveInAMist_large.jpg?v=1639099495"
+    },
+    {
+      "Medicinal_Value": "Lactation",
+      "Common_Name": "Black cumin",
+      "Latin_Name": "Nigella sativa",
+      "Local_Names": "Haba Soda’",
+      "Parts_of_plant": "seeds",
+      "process": "extract",
+      "image": "https://www.incredibleseeds.ca/cdn/shop/products/NigellaLoveInAMist_large.jpg?v=1639099496"
+    },
+    {
+      "Medicinal_Value": "Immune system",
+      "Common_Name": "Black cumin",
+      "Latin_Name": "Nigella sativa",
+      "Local_Names": "Haba Soda’",
+      "Parts_of_plant": "seeds",
+      "process": "extract",
+      "image": "https://www.incredibleseeds.ca/cdn/shop/products/NigellaLoveInAMist_large.jpg?v=1639099497"
+    },
+    {
+      "Medicinal_Value": "diuretic",
+      "Common_Name": "Basil",
+      "Latin_Name": "Ocimum basilicum",
+      "Local_Names": "Rehan Almelic",
+      "Parts_of_plant": "Flowers",
+      "process": "macerate or infusion",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/IZEu4dUYqNNqoMFM0zHGjlnCSmuCCHVlNPzfXgNv.webp"
+    },
+    {
+      "Medicinal_Value": "Gas",
+      "Common_Name": "Basil",
+      "Latin_Name": "Ocimum basilicum",
+      "Local_Names": "Rehan Almelic",
+      "Parts_of_plant": "Flowers",
+      "process": "macerate or infusion",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/IZEu4dUYqNNqoMFM0zHGjlnCSmuCCHVlNPzfXgNv.webp"
+    },
+    {
+      "Medicinal_Value": "General Health",
+      "Common_Name": "Basil",
+      "Latin_Name": "Ocimum basilicum",
+      "Local_Names": "Rehan Almelic",
+      "Parts_of_plant": "Flowers",
+      "process": "macerate or infusion",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/IZEu4dUYqNNqoMFM0zHGjlnCSmuCCHVlNPzfXgNv.webp"
+    },
+    {
+      "Medicinal_Value": "syphilis",
+      "Common_Name": "Basil",
+      "Latin_Name": "Ocimum basilicum",
+      "Local_Names": "Rehan Almelic",
+      "Parts_of_plant": "seeds",
+      "process": "macerate ",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/IZEu4dUYqNNqoMFM0zHGjlnCSmuCCHVlNPzfXgNv.webp"
+    },
+    {
+      "Medicinal_Value": "diuretic",
+      "Common_Name": "Spiny Restharrow",
+      "Latin_Name": "Ononis spinosa",
+      "Local_Names": "Anonis",
+      "Parts_of_plant": "aerial",
+      "process": "decoction",
+      "image": "https://plantsam.com/wp-content/uploads/2019/07/Ononis-spinosa-14-1024x683.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "laxative",
+      "Common_Name": "Spiny Restharrow",
+      "Latin_Name": "Ononis spinosa",
+      "Local_Names": "Anonis",
+      "Parts_of_plant": "aerial",
+      "process": "decoction",
+      "image": "https://plantsam.com/wp-content/uploads/2019/07/Ononis-spinosa-14-1024x683.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "diuretic",
+      "Common_Name": "Spiny Restharrow",
+      "Latin_Name": "Ononis spinosa",
+      "Local_Names": "Anonis",
+      "Parts_of_plant": "roots",
+      "image": "https://plantsam.com/wp-content/uploads/2019/07/Ononis-spinosa-14-1024x683.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Immune system",
+      "Common_Name": "Spiny Restharrow",
+      "Latin_Name": "Ononis spinosa",
+      "Local_Names": "Anonis",
+      "Parts_of_plant": "roots",
+      "image": "https://plantsam.com/wp-content/uploads/2019/07/Ononis-spinosa-14-1024x683.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "congestion",
+      "Common_Name": "Spiny Restharrow",
+      "Latin_Name": "Ononis spinosa",
+      "Local_Names": "Anonis",
+      "Parts_of_plant": "roots",
+      "image": "https://plantsam.com/wp-content/uploads/2019/07/Ononis-spinosa-14-1024x683.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Low Appetite",
+      "Common_Name": "Cotton thistle",
+      "Latin_Name": "Onopordum acanthium",
+      "Local_Names": "Tooba",
+      "Parts_of_plant": "Whole",
+      "process": "decoction",
+      "image": "https://www.cal-ipc.org/wp-content/uploads/2017/10/Onopordum-acanthium_-Scotch-thistle_JM-DiTomaso_cropped-600x450.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Low Appetite",
+      "Common_Name": "Cotton thistle",
+      "Latin_Name": "Onopordum acanthium",
+      "Local_Names": "Tooba",
+      "Parts_of_plant": "Whole",
+      "process": "decoction",
+      "image": "https://www.cal-ipc.org/wp-content/uploads/2017/10/Onopordum-acanthium_-Scotch-thistle_JM-DiTomaso_cropped-600x450.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "tonic",
+      "Common_Name": "Oregano",
+      "Latin_Name": "Origanum vulgare",
+      "Local_Names": "Rehen Gebeli",
+      "Parts_of_plant": "Whole",
+      "process": "decoction",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/pq5TAWihnBosKb6wOUZj2BQnpPoovSIUubm5L4kl.webp",
+      "lat": "32.149694; 32.157528; 32.466833 ",
+      "long": "44.322972; 44.337111; 44.161083"
+    },
+    {
+      "Medicinal_Value": "Fever",
+      "Common_Name": "Oregano",
+      "Latin_Name": "Origanum vulgare",
+      "Local_Names": "Rehen Gebeli",
+      "Parts_of_plant": "Whole",
+      "process": "decoction",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/pq5TAWihnBosKb6wOUZj2BQnpPoovSIUubm5L4kl.webp",
+      "lat": "32.149694; 32.157528; 32.466833 ",
+      "long": "44.322972; 44.337111; 44.161083"
+    },
+    {
+      "Medicinal_Value": "stress",
+      "Common_Name": "Oregano",
+      "Latin_Name": "Origanum vulgare",
+      "Local_Names": "Rehen Gebeli",
+      "Parts_of_plant": "Whole",
+      "process": "decoction",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/pq5TAWihnBosKb6wOUZj2BQnpPoovSIUubm5L4kl.webp",
+      "lat": "32.149694; 32.157528; 32.466833 ",
+      "long": "44.322972; 44.337111;44.161083"
+    },
+    {
+      "Medicinal_Value": "Pain (abdominal)",
+      "Common_Name": "Oregano",
+      "Latin_Name": "Origanum vulgare",
+      "Local_Names": "Rehen Gebeli",
+      "Parts_of_plant": "Whole",
+      "process": "decoction",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/pq5TAWihnBosKb6wOUZj2BQnpPoovSIUubm5L4kl.webp",
+      "lat": "32.149694; 32.157528; 32.466833 ",
+      "long": "44.322972; 44.337111; 44.161083"
+    },
+    {
+      "Medicinal_Value": "Pain (muscle)",
+      "Common_Name": "Oregano",
+      "Latin_Name": "Origanum vulgare",
+      "Local_Names": "Rehen Gebeli",
+      "process": "Oil",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/pq5TAWihnBosKb6wOUZj2BQnpPoovSIUubm5L4kl.webp",
+      "lat": "32.149694; 32.157528; 32.466833 ",
+      "long": "44.322972; 44.337111; 44.161083"
+    },
+    {
+      "Medicinal_Value": "Diarrhea ",
+      "Common_Name": "Creeping woodsorrel",
+      "Latin_Name": "Oxalis corniculata",
+      "Local_Names": "Humath",
+      "Parts_of_plant": "Leaves",
+      "process": "decoction",
+      "image": "https://www.cabidigitallibrary.org/cms/10.1079/cabicompendium.38154/asset/8e2b79fe-2dbd-447a-8936-2a586d75174b/assets/graphic/38154_05.jpg"
+    },
+    {
+      "Medicinal_Value": "Low Appetite",
+      "Common_Name": "Creeping woodsorrel",
+      "Latin_Name": "Oxalis corniculata",
+      "Local_Names": "Humath",
+      "Parts_of_plant": "Leaves",
+      "process": "decoction",
+      "image": "https://www.cabidigitallibrary.org/cms/10.1079/cabicompendium.38154/asset/8e2b79fe-2dbd-447a-8936-2a586d75174b/assets/graphic/38154_05.jpg"
+    },
+    {
+      "Medicinal_Value": "Immune system",
+      "Common_Name": "Creeping woodsorrel",
+      "Latin_Name": "Oxalis corniculata",
+      "Local_Names": "Humath",
+      "Parts_of_plant": "Leaves",
+      "process": "decoction",
+      "image": "https://www.cabidigitallibrary.org/cms/10.1079/cabicompendium.38154/asset/8e2b79fe-2dbd-447a-8936-2a586d75174b/assets/graphic/38154_05.jpg"
+    },
+    {
+      "Medicinal_Value": "Insomnia",
+      "Common_Name": "Common poppy",
+      "Latin_Name": "Papaver rhoeas",
+      "Local_Names": "Kheshkhash Menthor",
+      "Parts_of_plant": "Flowers",
+      "process": "decoction",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/1fQrJnaGXyYPsPYfrXn1Y1TwbqfPlnQEZlmtBN3j.webp"
+    },
+    {
+      "Medicinal_Value": "Congestion",
+      "Common_Name": "Common poppy",
+      "Latin_Name": "Papaver rhoeas",
+      "Local_Names": "Kheshkhash Menthor",
+      "Parts_of_plant": "Flowers",
+      "process": "decoction",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/1fQrJnaGXyYPsPYfrXn1Y1TwbqfPlnQEZlmtBN3j.webp"
+    },
+    {
+      "Medicinal_Value": "Cold",
+      "Common_Name": "Common poppy",
+      "Latin_Name": "Papaver rhoeas",
+      "Local_Names": "Kheshkhash Menthor",
+      "Parts_of_plant": "Flowers",
+      "process": "decoction",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/1fQrJnaGXyYPsPYfrXn1Y1TwbqfPlnQEZlmtBN3j.webp"
+    },
+    {
+      "Medicinal_Value": "Pain (abdominal)",
+      "Common_Name": "apricot vine",
+      "Latin_Name": "Passiflora incarnata",
+      "Local_Names": "Ward Alsaha",
+      "Parts_of_plant": "Whole, Flowers",
+      "process": "decoction",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/DSC_7301.webp"
+    },
+    {
+      "Medicinal_Value": "Insomnia",
+      "Common_Name": "apricot vine",
+      "Latin_Name": "Passiflora incarnata",
+      "Local_Names": "Ward Alsaha",
+      "Parts_of_plant": "Whole, Flowers",
+      "process": "decoction",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/DSC_7301.webp"
+    },
+    {
+      "Medicinal_Value": "Insomnia",
+      "Common_Name": "apricot vine",
+      "Latin_Name": "Passiflora incarnata",
+      "Local_Names": "Ward Alsaha",
+      "Parts_of_plant": "Whole, Flowers",
+      "process": "decoction",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/DSC_7301.webp"
+    },
+    {
+      "Medicinal_Value": "seizures and convulsions",
+      "Common_Name": "apricot vine",
+      "Latin_Name": "Passiflora incarnata",
+      "Local_Names": "Ward Alsaha",
+      "Parts_of_plant": "Whole, Flowers",
+      "process": "decoction",
+      "image": "https://www.gardenia.net/storage/app/public/uploads/images/detail/DSC_7301.webp"
+    },
+    {
+      "Medicinal_Value": "Menstruation (light)",
+      "Common_Name": "Parsley",
+      "Latin_Name": "Petroselinum sativum",
+      "Local_Names": "Maadonas",
+      "Parts_of_plant": "Fruits",
+      "process": "decoction",
+      "image": "http://plants.bauercreative.sk/img/petroselinum-crispum2.jpg",
+      "lat": 32.013917,
+      "long": 44.325222
+    },
+    {
+      "Medicinal_Value": "diuretic",
+      "Common_Name": "Parsley",
+      "Latin_Name": "Petroselinum sativum",
+      "Local_Names": "Maadonas",
+      "Parts_of_plant": "Fruits",
+      "process": "decoction",
+      "image": "http://plants.bauercreative.sk/img/petroselinum-crispum2.jpg"
+    },
+    {
+      "Medicinal_Value": "Pain",
+      "Common_Name": "Parsley",
+      "Latin_Name": "Petroselinum sativum",
+      "Local_Names": "Maadonas",
+      "Parts_of_plant": "Fruits",
+      "process": "decoction",
+      "image": "http://plants.bauercreative.sk/img/petroselinum-crispum2.jpg"
+    },
+    {
+      "Medicinal_Value": "Infection",
+      "Common_Name": "Common plantain",
+      "Latin_Name": "Plantago major",
+      "Local_Names": "Lesan Alhamel",
+      "Parts_of_plant": "aerial",
+      "process": "decoction",
+      "image": "https://th.bing.com/th/id/R.bd23de7984f96b366b34a2e0b4e11c0f?rik=HbdAZJ6vuCHaPA&pid=ImgRaw&r=0"
+    },
+    {
+      "Medicinal_Value": "Low Appetite",
+      "Common_Name": "Common plantain",
+      "Latin_Name": "Plantago major",
+      "Local_Names": "Lesan Alhamel",
+      "Parts_of_plant": "aerial",
+      "process": "decoction",
+      "image": "https://th.bing.com/th/id/R.bd23de7984f96b366b34a2e0b4e11c0f?rik=HbdAZJ6vuCHaPA&pid=ImgRaw&r=1"
+    },
+    {
+      "Medicinal_Value": "Diarrhea (bloody)",
+      "Common_Name": "Psyllium",
+      "Latin_Name": "Plantago ovata",
+      "Local_Names": "Zebad, Rebla",
+      "Parts_of_plant": "seeds",
+      "process": "decoction",
+      "image": "https://www.extrasynthese.com/c/600-category_default/plantago-ovata.jpg"
+    },
+    {
+      "Medicinal_Value": "Laxative",
+      "Common_Name": "Blond psyllium",
+      "Latin_Name": "Plantago psyllium",
+      "Local_Names": "Zeba, Rebla",
+      "Parts_of_plant": "seeds",
+      "process": "decoction (alone or w senna leaves)",
+      "image": "https://cdn.shopify.com/s/files/1/0058/0252/4783/files/psyllium-plantago-ovata-alternate.jpg",
+      "lat": 32.466833,
+      "long": 44.161083
+    },
+    {
+      "Medicinal_Value": "Fever",
+      "Common_Name": "White poplar\r\n",
+      "Latin_Name": "Populus alba",
+      "Local_Names": "Hoor",
+      "Parts_of_plant": "leaves,bark ",
+      "process": "decoction",
+      "image": "https://landscapeplants.oregonstate.edu/sites/plantid7/files/plantimage/poalba13.jpg"
+    },
+    {
+      "Medicinal_Value": "Rheumatism",
+      "Common_Name": "White poplar\r\n",
+      "Latin_Name": "Populus alba",
+      "Local_Names": "Hoor",
+      "Parts_of_plant": "leaves,bark ",
+      "process": "decoction",
+      "image": "https://landscapeplants.oregonstate.edu/sites/plantid7/files/plantimage/poalba13.jpg"
+    },
+    {
+      "Medicinal_Value": "Hemorrhoids",
+      "Common_Name": "creeping cinquefoil",
+      "Latin_Name": "Potentilla reptans",
+      "Local_Names": "Tho Khemsa Aorak",
+      "Parts_of_plant": "bark",
+      "process": "decoction",
+      "image": "http://www.allergywise.com/wp-content/uploads/2020/04/Plantain1-845x321.png",
+      "lat": 32.286722,
+      "long": 44.279917
+    },
+    {
+      "Medicinal_Value": "Diarrhea (bloody)",
+      "Common_Name": "Meadow false fleabane",
+      "Latin_Name": "Pulicaria dysenterica",
+      "Local_Names": "Rehrah Ayoob",
+      "Parts_of_plant": "whole",
+      "process": "decoction",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Pulicaria_dysenterica_2_RF.jpg/255px-Pulicaria_dysenterica_2_RF.jpg",
+      "lat": 32.013917,
+      "long": 44.325222
+    },
+    {
+      "Medicinal_Value": "Insect removal",
+      "Common_Name": "Meadow false fleabane",
+      "Latin_Name": "Pulicaria dysenterica",
+      "Local_Names": "Rehrah Ayoob",
+      "Parts_of_plant": "whole",
+      "process": "burning",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Pulicaria_dysenterica_2_RF.jpg/255px-Pulicaria_dysenterica_2_RF.jpg"
+    },
+    {
+      "Medicinal_Value": "Menstruation (light)",
+      "Common_Name": "Celery-leaved buttercup",
+      "Latin_Name": "Ranunculus sceleratus",
+      "Local_Names": "Zeglel",
+      "Parts_of_plant": "whole",
+      "process": "decoction",
+      "image": "https://newfs.s3.amazonaws.com/taxon-images-1000s1000/Ranunculaceae/ranunculus-sceleratus-ha-jnovak.jpg"
+    },
+    {
+      "Medicinal_Value": "Lactation",
+      "Common_Name": "Celery-leaved buttercup",
+      "Latin_Name": "Ranunculus sceleratus",
+      "Local_Names": "Zeglel",
+      "Parts_of_plant": "whole",
+      "process": "decoction",
+      "image": "https://newfs.s3.amazonaws.com/taxon-images-1000s1000/Ranunculaceae/ranunculus-sceleratus-ha-jnovak.jpg"
+    },
+    {
+      "__EMPTY": ";"
+    }
+  ],
+  "JSON Format": [
+    {
+      "Wheat": "Barley",
+      "Triticum Durum": "Hordeum vulgare",
+      "Wheat_1": "Barley",
+      "32.149694; 32.157528; 32.286722; 32.466833": "32.149694; 32.157528; 32.286722; 32.466833",
+      "44.322972; 44.337111; 44.279917;44.161083": "44.322972; 44.337111; 44.279917;44.161083"
+    },
+    {
+      "Wheat": "Rice",
+      "Triticum Durum": "Oryza sativa",
+      "Wheat_1": "Rice",
+      "32.149694; 32.157528; 32.286722; 32.466833": "32.149694; 32.157528; 32.466833;",
+      "44.322972; 44.337111; 44.279917;44.161083": "44.322972; 44.337111;44.161083"
+    },
+    {
+      "Wheat": "Australian Pine",
+      "Triticum Durum": "Casuarina equisetifolia",
+      "Wheat_1": "Australian Pine",
+      "32.149694; 32.157528; 32.286722; 32.466833": "32.149694; 32.157528",
+      "44.322972; 44.337111; 44.279917;44.161083": "44.322972; 44.337111"
+    },
+    {
+      "Wheat": "Golden wreathe battle",
+      "Triticum Durum": "Acacia cynophylla",
+      "Wheat_1": "Golden wreathe battle",
+      "32.149694; 32.157528; 32.286722; 32.466833": "32.149694; 32.157528 ",
+      "44.322972; 44.337111; 44.279917;44.161083": "44.322972; 44.337111"
+    },
+    {
+      "Wheat": "saltcedar",
+      "Triticum Durum": "Tamarix articulata",
+      "Wheat_1": "farash",
+      "32.149694; 32.157528; 32.286722; 32.466833": "32.149694; 32.157528",
+      "44.322972; 44.337111; 44.279917;44.161083": "44.322972; 44.337111"
+    },
+    {
+      "Wheat": "Jerusalem pine",
+      "Triticum Durum": "Pinus halepensis",
+      "Wheat_1": "aleppo pine",
+      "32.149694; 32.157528; 32.286722; 32.466833": "32.149694; 32.157528",
+      "44.322972; 44.337111; 44.279917;44.161083": "44.322972; 44.337111"
+    },
+    {
+      "Wheat": "italian cypress",
+      "Triticum Durum": "cupressus sempervirens",
+      "Wheat_1": "italian cypress",
+      "32.149694; 32.157528; 32.286722; 32.466833": "32.149694; 32.157528",
+      "44.322972; 44.337111; 44.279917;44.161083": "44.322972; 44.337111"
+    },
+    {
+      "Wheat": "oriental alder",
+      "Triticum Durum": "alnus prientalis",
+      "Wheat_1": "oriental alder",
+      "32.149694; 32.157528; 32.286722; 32.466833": "32.149694; 32.157528",
+      "44.322972; 44.337111; 44.279917;44.161083": "44.322972; 44.337111"
+    },
+    {
+      "Wheat": "silver poplar",
+      "Triticum Durum": "Populus alba",
+      "Wheat_1": "silver poplar",
+      "32.149694; 32.157528; 32.286722; 32.466833": "32.149694; 32.157528",
+      "44.322972; 44.337111; 44.279917;44.161083": "44.322972; 44.337111"
+    },
+    {
+      "Wheat": "swamp mahogany",
+      "Triticum Durum": "eucalyptus rostrata",
+      "Wheat_1": "swamp mahogany",
+      "32.149694; 32.157528; 32.286722; 32.466833": "32.149694; 32.157528",
+      "44.322972; 44.337111; 44.279917;44.161083": "44.322972; 44.337111"
+    },
+    {
+      "Wheat": "eastern white cedar",
+      "Triticum Durum": "thuja orientalist",
+      "Wheat_1": "eastern white cedar",
+      "32.149694; 32.157528; 32.286722; 32.466833": "32.149694; 32.157528",
+      "44.322972; 44.337111; 44.279917;44.161083": "44.322972; 44.337111"
+    },
+    {
+      "Wheat": "Common storks-bill",
+      "Triticum Durum": "Erodium cicutarium",
+      "Wheat_1": "bokteri",
+      "32.149694; 32.157528; 32.286722; 32.466833": 32.286722,
+      "44.322972; 44.337111; 44.279917;44.161083": 32.286722
+    },
+    {
+      "Wheat": "Date palm",
+      "Triticum Durum": "Phoenix dactylifera",
+      "Wheat_1": "tamar bere",
+      "32.149694; 32.157528; 32.286722; 32.466833": "32.286722; 32.466833",
+      "44.322972; 44.337111; 44.279917;44.161083": "44.27991744.161083"
+    },
+    {
+      "Wheat": "Apricot vine",
+      "Triticum Durum": "Passiflora incarnata",
+      "Wheat_1": "Ward alsaha",
+      "32.149694; 32.157528; 32.286722; 32.466833": 32.466833,
+      "44.322972; 44.337111; 44.279917;44.161083": 44.161083
+    }
+  ],
+  "Terms": [
+    {
+      "abscesses – Pus/Abscess": "Analgesic – Pain"
+    },
+    {
+      "abscesses – Pus/Abscess": "anasarca — swelling"
+    },
+    {
+      "abscesses – Pus/Abscess": "Angina perctoris muscle – Angina attack"
+    },
+    {
+      "abscesses – Pus/Abscess": "animal scapies – skin parasite"
+    },
+    {
+      "abscesses – Pus/Abscess": "Anthelmintic – Parasites (intestines)"
+    },
+    {
+      "abscesses – Pus/Abscess": "Anticancer – Cancer"
+    },
+    {
+      "abscesses – Pus/Abscess": "Anticolic – acid reflux"
+    },
+    {
+      "abscesses – Pus/Abscess": "Antidandruff – Dandruff"
+    },
+    {
+      "abscesses – Pus/Abscess": "antidiabetic— Diabetes"
+    },
+    {
+      "abscesses – Pus/Abscess": "Antidiarrheal – Diarrhea"
+    },
+    {
+      "abscesses – Pus/Abscess": "antiectoparasite – Parasites (skin)"
+    },
+    {
+      "abscesses – Pus/Abscess": "Antiemetic – Nausea and vomiting"
+    },
+    {
+      "abscesses – Pus/Abscess": "antiepileptic— seizures and convulsions"
+    },
+    {
+      "abscesses – Pus/Abscess": "antifever – Fever"
+    },
+    {
+      "abscesses – Pus/Abscess": "Antihemorrhage – Excessive bleeding"
+    },
+    {
+      "abscesses – Pus/Abscess": "Antihysteric – Hysteria"
+    },
+    {
+      "abscesses – Pus/Abscess": "antilice – Lice"
+    },
+    {
+      "abscesses – Pus/Abscess": "antimalarial – Malaria"
+    },
+    {
+      "abscesses – Pus/Abscess": "Antipyretic – Fever"
+    },
+    {
+      "abscesses – Pus/Abscess": "Antirheumatic – arthritis"
+    },
+    {
+      "abscesses – Pus/Abscess": "Antiscabies – Mites/Scabies"
+    },
+    {
+      "abscesses – Pus/Abscess": "Antispasmodic – Abdominal pain"
+    },
+    {
+      "abscesses – Pus/Abscess": "Antitussive – Cough"
+    },
+    {
+      "abscesses – Pus/Abscess": "Aperitive – Low Appetite"
+    },
+    {
+      "abscesses – Pus/Abscess": "Aphrodisiac – Low Libido"
+    },
+    {
+      "abscesses – Pus/Abscess": "arthralgia – Joint pain"
+    },
+    {
+      "abscesses – Pus/Abscess": "blood purative – Immunity"
+    },
+    {
+      "abscesses – Pus/Abscess": "cardiotonic – Slow heart rate"
+    },
+    {
+      "abscesses – Pus/Abscess": "Carminative – flatulence"
+    },
+    {
+      "abscesses – Pus/Abscess": "cicatrizant— Wound"
+    },
+    {
+      "abscesses – Pus/Abscess": "colic – Intense crying (infant)"
+    },
+    {
+      "abscesses – Pus/Abscess": "colpitis – Vaginitis"
+    },
+    {
+      "abscesses – Pus/Abscess": "counter irritant – Irritation"
+    },
+    {
+      "abscesses – Pus/Abscess": "depurative—Detox"
+    },
+    {
+      "abscesses – Pus/Abscess": "dysarthria urination – Frequent urination"
+    },
+    {
+      "abscesses – Pus/Abscess": "Dysentery – Bloody diarrhea"
+    },
+    {
+      "abscesses – Pus/Abscess": "Emmenagogue – Menstruation"
+    },
+    {
+      "abscesses – Pus/Abscess": "Emollient – Itching and flaking"
+    },
+    {
+      "abscesses – Pus/Abscess": "encephalitis – Brain inflammation"
+    },
+    {
+      "abscesses – Pus/Abscess": "enthemintic— Parasites (intestines)"
+    },
+    {
+      "abscesses – Pus/Abscess": "expectorant— phlegm"
+    },
+    {
+      "abscesses – Pus/Abscess": "febrifuge – Fever"
+    },
+    {
+      "abscesses – Pus/Abscess": "furuncle – Boils"
+    },
+    {
+      "abscesses – Pus/Abscess": "galactogen— Lactation"
+    },
+    {
+      "abscesses – Pus/Abscess": "gingivostomatitis – Oral infection"
+    },
+    {
+      "abscesses – Pus/Abscess": "glossitis —Swollen tongue"
+    },
+    {
+      "abscesses – Pus/Abscess": "gout – Arthritis"
+    },
+    {
+      "abscesses – Pus/Abscess": "hemagogue— Menstruation"
+    },
+    {
+      "abscesses – Pus/Abscess": "hepnotic – Sleep"
+    },
+    {
+      "abscesses – Pus/Abscess": "hypnotic – Sleep"
+    },
+    {
+      "abscesses – Pus/Abscess": "interdiarrheal – Diarrhea"
+    },
+    {
+      "abscesses – Pus/Abscess": "intestinal spasms – irritable bowel syndrome"
+    },
+    {
+      "abscesses – Pus/Abscess": "Kidney activator – Urination"
+    },
+    {
+      "abscesses – Pus/Abscess": "Laxative – Constipation"
+    },
+    {
+      "abscesses – Pus/Abscess": "liniment— Pain"
+    },
+    {
+      "abscesses – Pus/Abscess": "Menlipsis – Menopause"
+    },
+    {
+      "abscesses – Pus/Abscess": "metrorrhagia – Menstruation"
+    },
+    {
+      "abscesses – Pus/Abscess": "Neurotronic – ADHD"
+    },
+    {
+      "abscesses – Pus/Abscess": "Pyodermatitis – Irritable Bowel Disease"
+    },
+    {
+      "abscesses – Pus/Abscess": "Restorative – General Health"
+    },
+    {
+      "abscesses – Pus/Abscess": "Revulsive – Inflammation"
+    },
+    {
+      "abscesses – Pus/Abscess": "Roborant – Weakness"
+    },
+    {
+      "abscesses – Pus/Abscess": "Sedative – Insomnia"
+    },
+    {
+      "abscesses – Pus/Abscess": "Slowing down heart rate – Panic"
+    },
+    {
+      "abscesses – Pus/Abscess": "stomachic— Low Appetite"
+    },
+    {
+      "abscesses – Pus/Abscess": "Sudorific – Fever"
+    },
+    {
+      "abscesses – Pus/Abscess": "treatment of parotitis – Swelling of salivary glans"
+    },
+    {
+      "abscesses – Pus/Abscess": "Vermifuge – intestinal parasites"
+    },
+    {
+      "abscesses – Pus/Abscess": "Vitiligo – Discoloured skin"
+    },
+    {
+      "abscesses – Pus/Abscess": "Vulnerary – Wounds"
+    }
+  ]
+}
